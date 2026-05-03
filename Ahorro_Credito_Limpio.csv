@@ -1,0 +1,1168 @@
+id_persona,edad,departamento,zona,ingreso_mensual,ahorro_mensual,acceso_credito,tipo_institucion,frecuencia_ahorro,historial_crediticio,tiene_cuenta_bancaria
+1,46,Junín,Urbana,1635.14,371.68,Sí,Banco,Nunca,Regular,Sí
+2,29,Lima,Urbana,981.99,592.52,No,Caja Municipal,Mensual,Malo,Sí
+3,45,Lima,Rural,1063.65,518.32,Sí,Ninguna,Ocasional,Regular,Sí
+4,51,Apurímac,Urbana,963.39,299.33,Sí,Financiera,Nunca,Malo,Sí
+5,51,Apurímac,Urbana,525.88,5.11,Sí,Financiera,Mensual,Malo,Sí
+6,19,Tacna,Urbana,1783.18,58.96,No,Caja Municipal,Nunca,Bueno,Sí
+7,45,Junín,Urbana,1916.1,308.22,Sí,Banco,Ocasional,Bueno,No
+8,28,Apurímac,Urbana,983.05,327.35,No,Cooperativa,Mensual,Malo,No
+9,43,Lima,Urbana,1290.69,252.0,No,Cooperativa,Mensual,Bueno,Sí
+10,38,Lima,Urbana,1420.38,355.1,No,Caja Municipal,Mensual,Malo,Sí
+11,31,Apurímac,Urbana,758.38,201.38,Sí,Caja Municipal,Nunca,Regular,Sí
+12,36,Puno,Urbana,1704.97,463.82,No,Caja Municipal,Mensual,Malo,Sí
+13,35,Loreto,Urbana,1204.0,99.39,Sí,Caja Municipal,Nunca,Malo,Sí
+14,31,Loreto,Rural,1835.67,123.66,No,Banco,Ocasional,Bueno,Sí
+15,58,Puno,Rural,1746.63,281.43,Sí,Caja Municipal,Mensual,Malo,Sí
+16,43,Lima,Rural,884.42,242.34,No,Financiera,Ocasional,Bueno,Sí
+17,63,Lima,Urbana,863.7,522.43,Sí,Caja Municipal,Mensual,Malo,No
+18,37,Junín,Rural,2925.87,586.81,Sí,Financiera,Nunca,Bueno,No
+19,53,Apurímac,Rural,542.46,426.18,No,Caja Municipal,Mensual,Bueno,No
+20,54,Junín,Urbana,1308.98,264.03,No,Ninguna,Mensual,Bueno,Sí
+21,37,Lima,Urbana,2278.57,287.02,Sí,Caja Municipal,Mensual,Malo,No
+22,39,Apurímac,Rural,1795.31,322.74,No,Ninguna,Mensual,Malo,Sí
+23,61,Apurímac,Urbana,2179.37,326.9,Sí,Caja Municipal,Mensual,Regular,Sí
+24,61,Junín,Urbana,836.74,130.07,Sí,Caja Municipal,Mensual,Nulo,No
+25,19,Loreto,Urbana,1502.15,202.85,Sí,Banco,Ocasional,Regular,No
+26,62,Puno,Rural,1974.19,478.95,No,Banco,Nunca,Bueno,Sí
+28,56,Lima,Urbana,1660.58,197.1,Sí,Banco,Mensual,Regular,Sí
+29,64,Loreto,Urbana,1001.36,183.76,Sí,Financiera,Mensual,Regular,Sí
+30,37,Tacna,Urbana,2054.76,54.28,Sí,Financiera,Nunca,Bueno,Sí
+31,42,Junín,Urbana,2006.18,205.52,No,Financiera,Ocasional,Bueno,Sí
+32,18,Puno,Urbana,720.77,329.23,No,Caja Municipal,Ocasional,Regular,Sí
+33,54,Junín,Urbana,989.29,192.37,Sí,Financiera,Nunca,Bueno,Sí
+34,54,Apurímac,Urbana,1379.8,187.79,Sí,Caja Municipal,Ocasional,Bueno,No
+35,55,Loreto,Urbana,978.56,110.1,No,Caja Municipal,Mensual,Bueno,Sí
+36,33,Tacna,Rural,616.55,15.394177498047,Sí,Financiera,Nunca,Bueno,No
+37,33,Apurímac,Urbana,913.88,320.11,No,Caja Municipal,Mensual,Regular,No
+38,44,Junín,Rural,1216.46,9.48,No,Caja Municipal,Mensual,Bueno,Sí
+39,59,Loreto,Urbana,1192.16,578.43,No,Banco,Mensual,Nulo,Sí
+40,28,Junín,Urbana,856.51,299.92,No,Financiera,Mensual,Malo,Sí
+41,57,Loreto,Rural,1107.48,645.33,Sí,Banco,Mensual,Malo,Sí
+42,42,Lima,Urbana,920.14,277.14,No,Banco,Ocasional,Malo,No
+43,44,Loreto,Urbana,864.4,359.42026137467,No,Caja Municipal,Ocasional,Regular,Sí
+44,60,Apurímac,Rural,594.85,74.821146513577,No,Cooperativa,Nunca,Bueno,Sí
+45,60,Puno,Urbana,746.55,220.09,Sí,Caja Municipal,Mensual,Regular,Sí
+46,56,Loreto,Rural,1969.02,72.32,Sí,Cooperativa,Mensual,Bueno,Sí
+47,51,Lima,Rural,423.3,124.59,No,Ninguna,Mensual,Bueno,No
+48,22,Lima,Urbana,705.65,271.21,Sí,Cooperativa,Nunca,Malo,Sí
+49,36,Junín,Urbana,218.56,130.44,Sí,Banco,Ocasional,Regular,Sí
+50,33,Lima,Rural,2126.12,12.397744000501,No,Financiera,Mensual,Nulo,No
+51,20,Puno,Urbana,1084.82,89.55,Sí,Banco,Mensual,Malo,No
+52,33,Puno,Urbana,1618.12,113.97,No,Caja Municipal,Mensual,Bueno,Sí
+53,39,Loreto,Urbana,1447.7,382.82,Sí,Banco,Ocasional,Regular,Sí
+54,53,Puno,Rural,2244.96,398.05,No,Cooperativa,Mensual,Bueno,Sí
+55,36,Puno,Rural,1856.25,425.76806900345,Sí,Financiera,Mensual,Malo,Sí
+56,59,Loreto,Urbana,1348.84,164.7,No,Banco,Ocasional,Regular,No
+57,60,Junín,Rural,2291.19,257.18,No,Caja Municipal,Mensual,Bueno,Sí
+58,21,Apurímac,Urbana,2050.83,400.01,Sí,Financiera,Ocasional,Nulo,No
+59,50,Puno,Rural,657.93,449.03383594512,Sí,Ninguna,Ocasional,Malo,Sí
+60,60,Puno,Urbana,772.29,262.92746701741,No,Caja Municipal,Mensual,Regular,Sí
+61,49,Apurímac,Rural,2047.01,422.41,Sí,Cooperativa,Mensual,Bueno,No
+62,48,Lima,Urbana,847.78,319.86126649828,No,Banco,Ocasional,Malo,Sí
+63,44,Junín,Urbana,1200.7,612.37,No,Banco,Nunca,Bueno,No
+64,18,Puno,Urbana,1218.06,246.28,Sí,Cooperativa,Ocasional,Regular,No
+65,45,Loreto,Urbana,1060.01,86.92,Sí,Caja Municipal,Nunca,Bueno,No
+66,54,Lima,Urbana,360.49,74.05,Sí,Banco,Ocasional,Bueno,Sí
+67,41,Apurímac,Urbana,2175.09,3.34,No,Banco,Ocasional,Bueno,Sí
+68,40,Junín,Rural,1968.29,214.31,Sí,Caja Municipal,Ocasional,Regular,Sí
+69,46,Apurímac,Rural,2028.4,93.36,No,Ninguna,Mensual,Malo,No
+70,18,Tacna,Urbana,1250.28,270.34,Sí,Ninguna,Ocasional,Regular,Sí
+71,37,Junín,Urbana,2258.98,650.85,No,Caja Municipal,Ocasional,Bueno,No
+72,44,Apurímac,Rural,1073.93,124.14,No,Banco,Ocasional,Nulo,Sí
+73,27,Tacna,Urbana,1426.19,349.29,Sí,Banco,Mensual,Nulo,Sí
+74,33,Junín,Urbana,2003.91,448.97,No,Banco,Ocasional,Bueno,Sí
+75,45,Apurímac,Urbana,937.08,67.23,No,Banco,Mensual,Malo,No
+76,26,Apurímac,Urbana,2002.03,744.5,No,Banco,Mensual,Nulo,No
+77,55,Lima,Urbana,1662.58,144.38,Sí,Banco,Mensual,Bueno,Sí
+78,56,Tacna,Rural,2036.44,118.35,No,Ninguna,Ocasional,Nulo,Sí
+79,56,Tacna,Urbana,1756.54,329.04,Sí,Banco,Ocasional,Bueno,Sí
+80,36,Apurímac,Rural,1082.45,217.21,Sí,Banco,Nunca,Regular,No
+81,62,Lima,Urbana,457.67,99.79,Sí,Caja Municipal,Nunca,Bueno,Sí
+82,63,Tacna,Urbana,1628.96,231.95,No,Caja Municipal,Mensual,Regular,No
+83,26,Lima,Urbana,439.75,136.23,Sí,Banco,Mensual,Bueno,Sí
+84,50,Loreto,Urbana,2267.75,138.3,Sí,Financiera,Mensual,Nulo,Sí
+85,64,Junín,Rural,1808.95,28.65,Sí,Banco,Nunca,Regular,Sí
+86,64,Apurímac,Rural,957.77,350.39,No,Financiera,Mensual,Bueno,Sí
+87,41,Puno,Urbana,1175.5144486584,79.825957649724,No,Caja Municipal,Ocasional,Malo,Sí
+88,30,Loreto,Rural,2084.08,175.93,Sí,Financiera,Mensual,Bueno,Sí
+89,48,Puno,Urbana,1288.66,279.99,Sí,Caja Municipal,Mensual,Bueno,Sí
+90,59,Lima,Rural,1104.7,144.99,No,Cooperativa,Nunca,Regular,No
+91,26,Puno,Urbana,1467.57,253.25,No,Caja Municipal,Mensual,Malo,Sí
+92,33,Junín,Rural,1759.15,77.34,Sí,Banco,Mensual,Bueno,Sí
+93,29,Loreto,Urbana,1498.86,209.73,Sí,Cooperativa,Ocasional,Regular,Sí
+94,52,Loreto,Urbana,1291.83,546.43,No,Cooperativa,Mensual,Regular,Sí
+95,38,Tacna,Rural,1357.3,331.35,Sí,Banco,Mensual,Bueno,Sí
+96,22,Loreto,Rural,2232.94,120.42,Sí,Banco,Mensual,Regular,Sí
+97,23,Loreto,Urbana,669.04,131.32,No,Financiera,Mensual,Bueno,No
+98,23,Puno,Urbana,1418.95,509.25,Sí,Banco,Ocasional,Bueno,Sí
+99,24,Tacna,Urbana,1270.43,84.03,Sí,Banco,Mensual,Bueno,No
+100,60,Junín,Urbana,1045.75,526.04,Sí,Financiera,Nunca,Bueno,Sí
+101,36,Tacna,Urbana,1672.86,474.9,Sí,Cooperativa,Mensual,Malo,No
+102,46,Apurímac,Urbana,1434.48,156.73,Sí,Banco,Mensual,Nulo,No
+103,30,Loreto,Urbana,1201.49,392.2,Sí,Ninguna,Ocasional,Bueno,Sí
+104,54,Junín,Urbana,206.06,20.89,Sí,Financiera,Ocasional,Regular,Sí
+105,59,Puno,Rural,2280.42,363.51,Sí,Cooperativa,Ocasional,Nulo,Sí
+106,31,Puno,Urbana,2208.36,345.08238960424,Sí,Caja Municipal,Ocasional,Bueno,Sí
+107,62,Lima,Urbana,1111.49,340.89,Sí,Caja Municipal,Mensual,Bueno,Sí
+108,19,Loreto,Urbana,839.1,38.68,No,Caja Municipal,Mensual,Nulo,No
+109,57,Junín,Urbana,1857.67,82.21,Sí,Banco,Nunca,Regular,Sí
+110,56,Tacna,Rural,1180.38,106.61,No,Financiera,Ocasional,Regular,Sí
+111,31,Lima,Rural,927.91,354.26,Sí,Cooperativa,Nunca,Bueno,Sí
+112,20,Loreto,Urbana,811.32,360.2,Sí,Ninguna,Ocasional,Bueno,Sí
+113,55,Junín,Urbana,1855.51,122.32,Sí,Banco,Ocasional,Malo,No
+114,42,Lima,Urbana,790.47,218.85,No,Banco,Ocasional,Regular,Sí
+115,25,Tacna,Urbana,1861.47,700.43,Sí,Cooperativa,Mensual,Bueno,No
+116,36,Tacna,Rural,2625.49,252.58,No,Ninguna,Nunca,Regular,Sí
+117,53,Tacna,Rural,1234.72,332.03193296869,No,Caja Municipal,Ocasional,Nulo,No
+118,30,Loreto,Urbana,1179.1,88.69,Sí,Caja Municipal,Nunca,Regular,Sí
+119,41,Loreto,Rural,2488.94,499.19,Sí,Banco,Nunca,Malo,No
+120,46,Apurímac,Urbana,979.76,109.83,Sí,Caja Municipal,Ocasional,Bueno,Sí
+121,32,Lima,Rural,1585.32,156.61,No,Banco,Ocasional,Regular,Sí
+122,25,Tacna,Urbana,1908.17,335.8,Sí,Banco,Ocasional,Bueno,Sí
+123,31,Tacna,Rural,1352.93,444.95,Sí,Caja Municipal,Mensual,Bueno,Sí
+124,30,Lima,Urbana,1208.32,67.765402047101,Sí,Financiera,Ocasional,Malo,Sí
+125,31,Puno,Urbana,1877.22,281.92,No,Caja Municipal,Nunca,Malo,No
+126,27,Junín,Urbana,1686.66,336.56,No,Ninguna,Ocasional,Regular,Sí
+127,27,Tacna,Urbana,1237.72,6.25,No,Banco,Mensual,Malo,No
+128,43,Junín,Urbana,329.57,317.02,No,Caja Municipal,Mensual,Bueno,Sí
+129,18,Junín,Urbana,2435.24,84.015723949212,Sí,Caja Municipal,Ocasional,Bueno,Sí
+130,61,Tacna,Urbana,1019.12,197.25,No,Financiera,Mensual,Bueno,No
+131,64,Loreto,Urbana,1174.0,269.17000702325,Sí,Cooperativa,Ocasional,Regular,Sí
+132,27,Apurímac,Rural,1446.84,450.34,No,Caja Municipal,Mensual,Malo,Sí
+133,63,Puno,Rural,840.31,43.16,No,Ninguna,Mensual,Regular,No
+134,38,Tacna,Urbana,1167.48,364.49,No,Ninguna,Mensual,Bueno,Sí
+135,51,Tacna,Urbana,1344.4,559.97,No,Financiera,Ocasional,Regular,Sí
+136,44,Puno,Urbana,1144.55,403.73,Sí,Caja Municipal,Mensual,Nulo,Sí
+137,18,Apurímac,Urbana,1506.52,612.02,No,Cooperativa,Mensual,Bueno,Sí
+138,61,Lima,Urbana,1962.32,522.48,No,Caja Municipal,Ocasional,Regular,Sí
+139,24,Loreto,Urbana,1275.02,139.88,Sí,Caja Municipal,Ocasional,Bueno,Sí
+140,62,Apurímac,Urbana,626.5,96.86,Sí,Ninguna,Mensual,Bueno,Sí
+141,63,Puno,Urbana,330.25,18.327307599002,Sí,Cooperativa,Ocasional,Bueno,Sí
+142,37,Lima,Urbana,1454.45,263.75,Sí,Caja Municipal,Ocasional,Malo,Sí
+143,60,Puno,Rural,1537.58,43.51,Sí,Ninguna,Mensual,Bueno,No
+144,22,Junín,Rural,1131.16,686.56,Sí,Banco,Nunca,Malo,No
+145,36,Tacna,Urbana,621.88,596.37,No,Financiera,Ocasional,Malo,No
+146,48,Loreto,Urbana,982.01,75.5,Sí,Caja Municipal,Mensual,Nulo,No
+147,37,Lima,Rural,873.45,361.58,Sí,Banco,Ocasional,Nulo,No
+148,33,Apurímac,Urbana,1717.72,345.51,Sí,Ninguna,Mensual,Regular,Sí
+150,54,Loreto,Urbana,2072.42,209.99,Sí,Caja Municipal,Ocasional,Bueno,Sí
+151,30,Junín,Urbana,587.25,300.07,No,Banco,Ocasional,Malo,No
+152,52,Apurímac,Urbana,2020.15,303.71,Sí,Banco,Ocasional,Bueno,No
+153,59,Tacna,Rural,2015.38,107.97,Sí,Caja Municipal,Nunca,Malo,Sí
+154,38,Lima,Urbana,1734.05,68.256171796628,Sí,Financiera,Mensual,Nulo,Sí
+155,47,Junín,Rural,1133.99,76.31,Sí,Caja Municipal,Nunca,Bueno,No
+156,28,Puno,Rural,2312.48,378.34,Sí,Caja Municipal,Nunca,Nulo,Sí
+157,21,Puno,Urbana,1673.38,181.7,Sí,Banco,Ocasional,Bueno,No
+158,47,Tacna,Urbana,1744.3,25.36,Sí,Caja Municipal,Ocasional,Regular,Sí
+159,51,Tacna,Urbana,2734.65,400.28,Sí,Banco,Mensual,Regular,Sí
+160,18,Puno,Rural,978.83,49.8,No,Banco,Mensual,Bueno,No
+161,61,Lima,Rural,1427.45,293.9,No,Caja Municipal,Mensual,Bueno,Sí
+162,23,Puno,Urbana,1410.9,104.88,Sí,Ninguna,Nunca,Bueno,No
+163,55,Apurímac,Rural,2038.12,354.0,No,Cooperativa,Ocasional,Bueno,No
+164,25,Loreto,Rural,1494.19,415.46,No,Banco,Mensual,Malo,Sí
+165,31,Apurímac,Urbana,1730.21,18.108347018405,No,Financiera,Mensual,Bueno,Sí
+166,62,Junín,Urbana,1694.39,61.0,No,Banco,Nunca,Malo,No
+167,50,Junín,Urbana,2661.7,189.39,Sí,Ninguna,Nunca,Bueno,No
+168,53,Loreto,Rural,1591.7,466.16,No,Banco,Mensual,Regular,Sí
+169,49,Loreto,Urbana,1216.98,254.94,No,Caja Municipal,Mensual,Regular,Sí
+170,54,Lima,Urbana,1521.18,743.83,Sí,Cooperativa,Mensual,Bueno,Sí
+171,44,Loreto,Urbana,1829.56,82.56,Sí,Banco,Nunca,Regular,Sí
+172,53,Junín,Rural,859.66,478.9,No,Financiera,Mensual,Malo,Sí
+173,26,Tacna,Urbana,499.81,359.69,Sí,Caja Municipal,Mensual,Regular,Sí
+174,52,Tacna,Urbana,1377.48,155.90283930178,No,Banco,Mensual,Nulo,Sí
+175,18,Puno,Urbana,972.22,463.24,Sí,Banco,Ocasional,Bueno,Sí
+176,27,Apurímac,Urbana,1591.38,109.19,Sí,Caja Municipal,Mensual,Malo,No
+177,27,Apurímac,Urbana,1899.96,159.23,Sí,Banco,Ocasional,Bueno,Sí
+178,20,Lima,Urbana,2088.13,194.12,Sí,Financiera,Mensual,Regular,No
+179,23,Apurímac,Urbana,1174.29,309.40970048829,Sí,Ninguna,Mensual,Regular,Sí
+180,21,Junín,Urbana,817.98,328.7,No,Banco,Ocasional,Malo,Sí
+181,60,Lima,Urbana,1306.46,151.25,Sí,Financiera,Nunca,Bueno,Sí
+182,27,Tacna,Urbana,1092.82,184.22,Sí,Financiera,Ocasional,Bueno,Sí
+183,62,Lima,Rural,1765.1,56.306288114711,Sí,Banco,Ocasional,Regular,No
+184,48,Apurímac,Urbana,1793.96,339.2,Sí,Banco,Nunca,Bueno,Sí
+185,59,Loreto,Urbana,1612.25,275.54,No,Banco,Mensual,Regular,Sí
+186,38,Tacna,Urbana,1053.36,304.52,Sí,Financiera,Ocasional,Nulo,Sí
+187,31,Junín,Urbana,2141.88,396.4,No,Cooperativa,Nunca,Bueno,No
+188,41,Lima,Rural,1767.75,198.88,Sí,Financiera,Mensual,Bueno,Sí
+190,32,Puno,Urbana,1512.6,36.19,Sí,Banco,Ocasional,Nulo,No
+191,20,Puno,Urbana,2356.19,184.47,Sí,Caja Municipal,Mensual,Bueno,Sí
+193,60,Puno,Urbana,1238.54,96.94,Sí,Financiera,Mensual,Bueno,No
+194,48,Junín,Urbana,948.75,184.82,Sí,Banco,Mensual,Bueno,Sí
+195,55,Apurímac,Rural,815.13,319.32,No,Caja Municipal,Ocasional,Bueno,No
+196,52,Lima,Rural,1493.01,55.97,Sí,Financiera,Ocasional,Bueno,No
+197,35,Junín,Rural,1449.25,625.32,No,Cooperativa,Ocasional,Bueno,Sí
+198,51,Junín,Urbana,1621.12,424.63,Sí,Banco,Nunca,Malo,No
+199,36,Apurímac,Rural,1438.39,95.18,Sí,Banco,Mensual,Nulo,Sí
+200,23,Tacna,Urbana,2200.14,28.4,No,Ninguna,Mensual,Bueno,Sí
+201,33,Junín,Urbana,1608.65,65.14,Sí,Banco,Mensual,Regular,Sí
+202,19,Junín,Urbana,1674.95,263.03,No,Banco,Mensual,Bueno,Sí
+203,50,Junín,Urbana,2767.11,366.95,No,Ninguna,Nunca,Bueno,No
+204,42,Apurímac,Urbana,384.27,266.29,Sí,Financiera,Mensual,Bueno,No
+205,29,Apurímac,Rural,819.22,242.57598127943,No,Cooperativa,Nunca,Bueno,No
+206,51,Loreto,Urbana,1181.86,232.13,Sí,Banco,Mensual,Bueno,No
+207,38,Tacna,Urbana,799.11,374.77,No,Cooperativa,Mensual,Nulo,Sí
+208,29,Lima,Rural,1760.81,347.56,Sí,Financiera,Mensual,Regular,Sí
+209,18,Junín,Urbana,2036.29,9.35,Sí,Financiera,Nunca,Malo,No
+210,42,Junín,Rural,2126.38,396.8,Sí,Banco,Mensual,Bueno,Sí
+211,22,Tacna,Urbana,1580.6,85.92,No,Banco,Mensual,Malo,No
+212,50,Loreto,Urbana,888.22,210.48,Sí,Banco,Mensual,Bueno,No
+213,54,Tacna,Urbana,1670.49,302.68,Sí,Financiera,Mensual,Regular,Sí
+214,64,Apurímac,Urbana,2611.12,385.12960063523,No,Ninguna,Ocasional,Bueno,No
+215,59,Puno,Urbana,1304.27,328.04,No,Caja Municipal,Mensual,Bueno,Sí
+216,59,Loreto,Urbana,2027.65,383.13,Sí,Ninguna,Ocasional,Bueno,No
+217,35,Loreto,Rural,1778.93,303.25,No,Banco,Mensual,Regular,Sí
+218,24,Junín,Rural,1050.31,525.94,No,Cooperativa,Mensual,Regular,Sí
+219,48,Apurímac,Urbana,2026.35,226.29,Sí,Banco,Nunca,Bueno,Sí
+220,55,Loreto,Urbana,1587.77,283.13,No,Financiera,Mensual,Bueno,No
+221,55,Tacna,Urbana,1618.15,267.61,No,Caja Municipal,Mensual,Bueno,Sí
+222,33,Apurímac,Urbana,2425.99,803.78,No,Caja Municipal,Nunca,Bueno,No
+223,33,Apurímac,Rural,1338.41,675.47,No,Cooperativa,Mensual,Bueno,No
+224,37,Lima,Urbana,1398.56,313.45389577941,Sí,Financiera,Mensual,Bueno,Sí
+226,48,Tacna,Urbana,813.38,408.31694722962,Sí,Financiera,Ocasional,Regular,Sí
+227,52,Lima,Urbana,1423.41,297.76,Sí,Banco,Nunca,Malo,Sí
+228,31,Tacna,Rural,850.39,626.06,No,Financiera,Nunca,Malo,Sí
+229,61,Loreto,Urbana,1895.5,96.63,Sí,Caja Municipal,Ocasional,Regular,Sí
+230,22,Apurímac,Urbana,624.73,23.23,No,Banco,Mensual,Regular,Sí
+231,32,Loreto,Urbana,519.21,302.07,Sí,Ninguna,Mensual,Regular,No
+232,27,Lima,Rural,2024.04,300.7,Sí,Banco,Ocasional,Bueno,Sí
+233,64,Loreto,Urbana,1271.8,200.27,No,Banco,Ocasional,Regular,Sí
+234,21,Tacna,Urbana,1823.79,99.27,No,Caja Municipal,Ocasional,Malo,Sí
+235,25,Tacna,Urbana,1961.73,441.43,Sí,Caja Municipal,Nunca,Bueno,No
+236,56,Apurímac,Rural,1405.15,201.2,Sí,Caja Municipal,Nunca,Bueno,Sí
+237,35,Apurímac,Urbana,2034.96,110.8343859116,No,Banco,Mensual,Malo,Sí
+238,40,Loreto,Rural,377.03,40.846293397924,Sí,Banco,Mensual,Bueno,Sí
+239,62,Apurímac,Urbana,595.88,244.58,Sí,Caja Municipal,Mensual,Malo,Sí
+240,34,Tacna,Urbana,551.99,109.62,No,Banco,Mensual,Bueno,Sí
+241,37,Tacna,Urbana,2019.31,109.00603855396,No,Cooperativa,Mensual,Bueno,No
+242,37,Tacna,Urbana,1147.94,154.92,No,Financiera,Mensual,Bueno,Sí
+243,36,Loreto,Urbana,1588.15,305.36,No,Financiera,Nunca,Malo,Sí
+244,25,Tacna,Urbana,769.18624646108,605.16,No,Caja Municipal,Ocasional,Regular,Sí
+245,49,Tacna,Urbana,1437.52,158.89,No,Financiera,Ocasional,Nulo,Sí
+246,41,Apurímac,Urbana,1075.18,192.91,Sí,Caja Municipal,Mensual,Bueno,Sí
+247,29,Junín,Rural,1531.12,66.8,No,Ninguna,Ocasional,Regular,Sí
+248,34,Apurímac,Rural,1296.9,325.69,Sí,Caja Municipal,Mensual,Bueno,Sí
+249,57,Puno,Urbana,1435.92,252.15,Sí,Banco,Nunca,Bueno,Sí
+251,50,Lima,Urbana,1642.77,515.48,No,Ninguna,Ocasional,Bueno,No
+252,20,Junín,Urbana,1171.04,106.69,Sí,Banco,Mensual,Bueno,Sí
+253,51,Lima,Rural,1618.58,429.06460150721,Sí,Financiera,Mensual,Nulo,No
+254,44,Loreto,Rural,1379.41,483.57,No,Caja Municipal,Ocasional,Bueno,Sí
+255,55,Tacna,Urbana,1880.4,267.03,Sí,Caja Municipal,Mensual,Bueno,Sí
+256,40,Lima,Urbana,1642.16,240.11331747163,Sí,Banco,Mensual,Malo,Sí
+257,44,Loreto,Urbana,1851.31,197.68,Sí,Ninguna,Mensual,Bueno,Sí
+258,41,Junín,Urbana,644.74,332.01,No,Ninguna,Mensual,Bueno,Sí
+259,41,Junín,Urbana,1144.55,528.15,Sí,Ninguna,Mensual,Bueno,No
+260,40,Tacna,Urbana,1635.53,46.6,Sí,Financiera,Mensual,Regular,Sí
+262,19,Puno,Rural,1848.23,593.97,No,Financiera,Nunca,Nulo,Sí
+263,32,Loreto,Urbana,1731.5,32.37,Sí,Cooperativa,Mensual,Nulo,Sí
+264,55,Puno,Urbana,808.98,105.96488599497,No,Banco,Mensual,Nulo,No
+265,60,Apurímac,Urbana,1299.82,196.87,Sí,Ninguna,Nunca,Bueno,No
+266,21,Apurímac,Urbana,1380.53,572.82,No,Banco,Nunca,Malo,No
+267,23,Lima,Rural,1439.73,234.75,No,Caja Municipal,Mensual,Malo,Sí
+268,60,Apurímac,Urbana,825.12,457.53,Sí,Financiera,Nunca,Bueno,No
+269,55,Tacna,Rural,1062.69,105.22,Sí,Banco,Nunca,Bueno,No
+270,29,Loreto,Urbana,1324.26,8.19,Sí,Financiera,Mensual,Malo,Sí
+271,24,Puno,Urbana,1582.21,271.35,Sí,Ninguna,Nunca,Bueno,Sí
+272,29,Loreto,Urbana,1372.81,321.49,Sí,Banco,Nunca,Malo,Sí
+273,38,Lima,Rural,508.79,454.06,Sí,Cooperativa,Nunca,Nulo,Sí
+274,55,Lima,Urbana,1637.7,101.76,Sí,Caja Municipal,Nunca,Bueno,Sí
+275,42,Tacna,Urbana,1440.48,203.61,Sí,Caja Municipal,Mensual,Bueno,No
+276,52,Apurímac,Urbana,1932.63,307.02,No,Caja Municipal,Ocasional,Nulo,Sí
+277,41,Puno,Urbana,827.64,300.52,No,Caja Municipal,Ocasional,Bueno,Sí
+278,41,Puno,Urbana,1693.54,19.44,No,Caja Municipal,Nunca,Bueno,Sí
+280,23,Tacna,Urbana,1206.47,149.84,No,Banco,Mensual,Bueno,Sí
+281,33,Junín,Rural,1413.72,85.64,Sí,Financiera,Mensual,Bueno,Sí
+282,45,Lima,Urbana,1192.63,176.71,No,Financiera,Mensual,Regular,Sí
+283,59,Loreto,Rural,912.3,632.73,Sí,Financiera,Ocasional,Bueno,Sí
+284,57,Apurímac,Urbana,1478.46,369.33,Sí,Banco,Ocasional,Regular,Sí
+285,33,Lima,Urbana,2067.33,395.22,Sí,Cooperativa,Mensual,Bueno,Sí
+286,23,Lima,Rural,2126.22,45.53,Sí,Cooperativa,Mensual,Regular,No
+287,24,Lima,Urbana,2322.92,400.22,Sí,Banco,Mensual,Regular,Sí
+288,38,Puno,Urbana,1603.58,327.75,No,Cooperativa,Mensual,Bueno,No
+289,40,Lima,Rural,997.47,321.29,Sí,Financiera,Ocasional,Bueno,No
+290,42,Loreto,Urbana,1138.38,259.35,Sí,Banco,Mensual,Malo,Sí
+291,50,Tacna,Rural,1150.94,501.31,Sí,Banco,Mensual,Bueno,Sí
+292,24,Loreto,Urbana,1923.9,309.97,No,Banco,Ocasional,Nulo,Sí
+293,37,Apurímac,Urbana,1784.87,403.20872916147,No,Financiera,Nunca,Malo,Sí
+294,19,Apurímac,Urbana,960.98,56.05,Sí,Banco,Mensual,Nulo,No
+295,23,Junín,Urbana,1958.85,330.57,No,Banco,Mensual,Regular,Sí
+296,60,Junín,Urbana,1283.74,148.92,No,Caja Municipal,Ocasional,Bueno,No
+297,35,Puno,Urbana,634.81,85.57,No,Banco,Nunca,Malo,No
+298,32,Tacna,Urbana,1926.72,319.07,Sí,Banco,Mensual,Malo,Sí
+299,48,Loreto,Urbana,1617.11,97.93,No,Banco,Mensual,Bueno,No
+300,24,Loreto,Urbana,2270.78,234.04,Sí,Cooperativa,Mensual,Bueno,Sí
+301,42,Junín,Urbana,716.16,37.52,Sí,Cooperativa,Ocasional,Bueno,No
+303,50,Tacna,Urbana,1932.99,591.67,No,Banco,Mensual,Malo,No
+304,59,Tacna,Urbana,1796.47,283.7,Sí,Ninguna,Nunca,Regular,No
+305,30,Loreto,Urbana,693.03,566.61,No,Caja Municipal,Nunca,Bueno,Sí
+306,36,Junín,Urbana,1787.62,392.27850025551,Sí,Banco,Mensual,Bueno,Sí
+307,24,Tacna,Urbana,1239.01,343.64,No,Banco,Mensual,Bueno,Sí
+308,27,Tacna,Urbana,587.22,251.69,Sí,Ninguna,Mensual,Regular,No
+309,35,Junín,Rural,1317.84,685.25,Sí,Caja Municipal,Mensual,Bueno,Sí
+310,26,Apurímac,Urbana,1781.1,166.11,Sí,Ninguna,Mensual,Regular,Sí
+311,49,Junín,Urbana,2288.48,449.33,No,Banco,Mensual,Nulo,Sí
+312,32,Apurímac,Rural,2830.37,307.83,No,Caja Municipal,Mensual,Bueno,Sí
+313,46,Junín,Rural,1739.3,557.85,Sí,Banco,Mensual,Bueno,Sí
+314,38,Apurímac,Rural,2176.42,501.21,No,Caja Municipal,Mensual,Bueno,No
+315,25,Puno,Rural,1379.9,155.79,Sí,Caja Municipal,Nunca,Nulo,Sí
+316,32,Tacna,Rural,2116.22,622.74,Sí,Financiera,Mensual,Bueno,Sí
+317,29,Lima,Urbana,816.13,428.8,No,Banco,Ocasional,Regular,No
+318,50,Loreto,Urbana,1574.89,286.15,No,Cooperativa,Mensual,Malo,Sí
+319,54,Apurímac,Urbana,1278.49,540.11,Sí,Banco,Mensual,Malo,Sí
+320,34,Puno,Rural,3112.67,21.46,No,Banco,Ocasional,Nulo,Sí
+321,22,Lima,Urbana,1497.05,177.04,Sí,Cooperativa,Mensual,Bueno,Sí
+322,20,Apurímac,Urbana,806.99,295.19,Sí,Caja Municipal,Ocasional,Regular,Sí
+323,62,Apurímac,Urbana,2054.24,255.89,No,Banco,Ocasional,Malo,No
+324,42,Tacna,Urbana,1833.7,82.31,Sí,Banco,Mensual,Bueno,Sí
+325,43,Tacna,Urbana,396.7594057048,333.96,No,Financiera,Mensual,Bueno,Sí
+326,62,Puno,Urbana,1256.35,611.31,Sí,Banco,Mensual,Bueno,No
+327,46,Lima,Urbana,1402.93,414.09,Sí,Caja Municipal,Mensual,Regular,No
+328,26,Junín,Urbana,1510.56,265.58,Sí,Financiera,Mensual,Regular,No
+329,64,Lima,Urbana,163.11,134.25,Sí,Financiera,Mensual,Bueno,No
+330,21,Puno,Rural,2084.55,253.26382716566,Sí,Caja Municipal,Mensual,Malo,Sí
+331,32,Tacna,Rural,490.96,25.273670274094,No,Ninguna,Mensual,Bueno,Sí
+332,46,Tacna,Urbana,1123.85,409.6,Sí,Cooperativa,Mensual,Malo,Sí
+333,59,Loreto,Urbana,1217.72,716.45,Sí,Banco,Mensual,Bueno,Sí
+334,27,Loreto,Rural,526.64507873997,399.13,Sí,Caja Municipal,Ocasional,Regular,No
+335,52,Apurímac,Urbana,1306.67,464.29,Sí,Financiera,Mensual,Bueno,Sí
+336,37,Lima,Urbana,1836.23,467.95,No,Banco,Nunca,Malo,No
+337,58,Tacna,Urbana,1152.48,230.07,No,Cooperativa,Ocasional,Regular,No
+338,33,Loreto,Rural,575.7,282.73,No,Banco,Ocasional,Regular,Sí
+339,50,Loreto,Urbana,836.33,368.14,No,Caja Municipal,Mensual,Nulo,Sí
+340,55,Puno,Rural,1530.28,192.95,No,Financiera,Mensual,Bueno,Sí
+341,46,Lima,Urbana,1937.05,195.73,Sí,Caja Municipal,Ocasional,Regular,Sí
+343,46,Lima,Urbana,1823.57,657.85,Sí,Caja Municipal,Mensual,Regular,Sí
+344,33,Apurímac,Rural,2086.13,198.37,No,Caja Municipal,Ocasional,Regular,Sí
+345,56,Tacna,Rural,1078.63,450.63,Sí,Banco,Mensual,Bueno,Sí
+346,55,Loreto,Urbana,882.0,75.7,No,Caja Municipal,Nunca,Regular,Sí
+347,61,Tacna,Rural,2400.91,100.1,No,Banco,Nunca,Regular,Sí
+348,32,Tacna,Urbana,1288.5,164.62,No,Financiera,Mensual,Bueno,Sí
+349,51,Loreto,Rural,1911.85,213.8,Sí,Cooperativa,Mensual,Malo,Sí
+350,40,Loreto,Rural,1617.49,66.06,No,Ninguna,Nunca,Nulo,Sí
+352,27,Loreto,Urbana,3023.75,298.53,Sí,Financiera,Mensual,Bueno,Sí
+353,59,Lima,Rural,1885.48,348.09,No,Caja Municipal,Mensual,Regular,Sí
+354,38,Lima,Urbana,3000.8,489.95,Sí,Financiera,Nunca,Bueno,Sí
+355,31,Puno,Rural,1877.06,250.32,No,Ninguna,Ocasional,Nulo,No
+356,27,Lima,Urbana,1506.21,212.43,No,Caja Municipal,Mensual,Regular,Sí
+357,58,Lima,Urbana,246.9,136.89,Sí,Cooperativa,Ocasional,Nulo,Sí
+358,31,Apurímac,Rural,452.85,205.66,No,Caja Municipal,Ocasional,Malo,Sí
+359,30,Loreto,Urbana,1172.84,518.78,Sí,Cooperativa,Mensual,Bueno,Sí
+360,47,Apurímac,Rural,2395.13,272.46930252361,No,Caja Municipal,Ocasional,Nulo,Sí
+361,50,Loreto,Urbana,1678.87,331.96,Sí,Caja Municipal,Nunca,Nulo,No
+362,56,Tacna,Urbana,1718.69,410.42,No,Financiera,Mensual,Bueno,Sí
+363,48,Loreto,Urbana,1475.18,448.7,No,Financiera,Nunca,Malo,Sí
+365,46,Apurímac,Rural,1711.62,449.93,No,Financiera,Mensual,Bueno,Sí
+367,36,Lima,Rural,1190.82,343.66,Sí,Cooperativa,Mensual,Malo,No
+368,57,Tacna,Rural,2388.14,502.21,No,Ninguna,Mensual,Bueno,No
+369,48,Apurímac,Rural,870.77,183.42,No,Ninguna,Ocasional,Malo,Sí
+370,43,Tacna,Rural,1203.87,575.92,Sí,Financiera,Mensual,Nulo,Sí
+371,36,Tacna,Rural,1527.06,284.82,Sí,Banco,Nunca,Regular,No
+372,35,Puno,Rural,1224.67,3.0,Sí,Banco,Ocasional,Bueno,Sí
+373,18,Apurímac,Urbana,1950.65,395.23,Sí,Financiera,Mensual,Bueno,Sí
+374,62,Apurímac,Urbana,756.15,9.55,No,Caja Municipal,Mensual,Regular,Sí
+375,55,Lima,Urbana,2313.04,246.6,Sí,Financiera,Mensual,Malo,No
+376,46,Lima,Rural,1842.88,205.87,Sí,Banco,Mensual,Bueno,No
+377,59,Tacna,Rural,769.33,299.73,Sí,Banco,Ocasional,Bueno,Sí
+378,31,Tacna,Urbana,1370.42,47.57,Sí,Cooperativa,Ocasional,Bueno,Sí
+379,28,Lima,Urbana,1599.54,227.68,Sí,Banco,Ocasional,Regular,No
+380,31,Puno,Rural,2161.34,210.45,Sí,Financiera,Mensual,Bueno,Sí
+381,21,Puno,Rural,1338.74,286.5,No,Cooperativa,Mensual,Nulo,Sí
+382,41,Loreto,Urbana,991.25,325.69,No,Ninguna,Mensual,Malo,No
+383,34,Tacna,Urbana,1119.15,439.44,Sí,Banco,Ocasional,Bueno,Sí
+384,30,Loreto,Urbana,1796.68,371.85,Sí,Banco,Ocasional,Bueno,Sí
+385,29,Apurímac,Urbana,885.14,225.61,Sí,Financiera,Ocasional,Bueno,Sí
+386,64,Loreto,Rural,1254.63,507.57,Sí,Caja Municipal,Nunca,Bueno,Sí
+387,47,Loreto,Urbana,2833.05,370.82,Sí,Financiera,Mensual,Regular,Sí
+388,24,Loreto,Urbana,364.20441478836,39.03,Sí,Banco,Mensual,Bueno,Sí
+389,25,Junín,Urbana,1801.43,170.82,No,Banco,Mensual,Regular,No
+390,20,Puno,Urbana,1751.23,24.34,No,Banco,Mensual,Malo,Sí
+391,35,Puno,Rural,1312.36,391.47,Sí,Banco,Ocasional,Bueno,Sí
+392,18,Tacna,Urbana,2248.67,152.28,Sí,Ninguna,Nunca,Bueno,Sí
+393,36,Puno,Urbana,1253.44,221.57,No,Caja Municipal,Mensual,Nulo,Sí
+394,32,Tacna,Urbana,1318.08,418.66,Sí,Ninguna,Nunca,Regular,Sí
+395,21,Apurímac,Urbana,1533.42,178.81,No,Cooperativa,Mensual,Regular,Sí
+396,21,Puno,Rural,622.38,287.82,No,Financiera,Mensual,Regular,No
+397,64,Puno,Urbana,1979.35,22.18,Sí,Financiera,Ocasional,Bueno,Sí
+398,32,Puno,Urbana,1641.98,333.48,Sí,Banco,Ocasional,Bueno,Sí
+399,55,Junín,Urbana,1950.5,687.13,Sí,Ninguna,Mensual,Malo,Sí
+400,60,Apurímac,Urbana,1693.7,136.76,No,Caja Municipal,Mensual,Bueno,Sí
+401,63,Tacna,Urbana,1707.56,140.3,Sí,Caja Municipal,Mensual,Regular,Sí
+402,59,Tacna,Urbana,1444.4,240.16,No,Banco,Mensual,Regular,No
+403,60,Loreto,Rural,1351.15,271.99,No,Financiera,Ocasional,Nulo,No
+404,36,Lima,Rural,839.26,209.9,No,Banco,Mensual,Bueno,No
+405,18,Tacna,Urbana,1311.95,216.32,Sí,Banco,Nunca,Regular,Sí
+406,42,Apurímac,Urbana,2078.79,184.1,Sí,Caja Municipal,Ocasional,Malo,Sí
+407,41,Apurímac,Urbana,2286.229052222,79.83,No,Banco,Mensual,Bueno,Sí
+408,46,Loreto,Urbana,425.92,369.99,No,Caja Municipal,Nunca,Bueno,Sí
+409,45,Apurímac,Urbana,1962.16,299.2,Sí,Cooperativa,Ocasional,Malo,Sí
+410,28,Lima,Urbana,1503.75,259.72,Sí,Caja Municipal,Nunca,Regular,No
+411,35,Lima,Urbana,2354.86,265.84,Sí,Caja Municipal,Ocasional,Regular,Sí
+412,52,Apurímac,Urbana,1323.96,312.41,No,Banco,Mensual,Regular,No
+413,64,Apurímac,Urbana,1913.67,503.97,Sí,Banco,Mensual,Bueno,Sí
+414,36,Junín,Urbana,389.68,262.51,Sí,Banco,Mensual,Regular,Sí
+415,45,Loreto,Urbana,2101.65,233.13,Sí,Financiera,Mensual,Regular,Sí
+416,63,Puno,Urbana,708.09,177.9,Sí,Banco,Ocasional,Regular,Sí
+417,39,Apurímac,Rural,621.81,130.2,No,Banco,Ocasional,Malo,Sí
+418,37,Lima,Urbana,2192.87,2.49,No,Banco,Nunca,Nulo,Sí
+419,53,Puno,Urbana,2041.13,596.61,No,Cooperativa,Nunca,Malo,No
+420,28,Apurímac,Urbana,1783.38,253.35057677856,No,Caja Municipal,Ocasional,Bueno,Sí
+421,26,Tacna,Urbana,1788.59,272.93,Sí,Banco,Ocasional,Bueno,Sí
+423,64,Lima,Urbana,331.38,212.45,Sí,Caja Municipal,Mensual,Bueno,Sí
+424,52,Apurímac,Urbana,2245.88,220.09989493461,No,Cooperativa,Mensual,Bueno,No
+425,55,Tacna,Urbana,705.93,513.24,Sí,Cooperativa,Ocasional,Bueno,Sí
+426,19,Puno,Urbana,722.1,236.57,No,Financiera,Mensual,Bueno,Sí
+427,47,Tacna,Urbana,1559.79,39.22,Sí,Ninguna,Ocasional,Bueno,Sí
+428,31,Loreto,Urbana,1308.15,199.86,Sí,Banco,Ocasional,Bueno,Sí
+429,55,Apurímac,Urbana,930.54,305.41,Sí,Banco,Mensual,Regular,Sí
+430,60,Junín,Rural,1788.0,206.84,No,Cooperativa,Mensual,Bueno,Sí
+431,45,Junín,Urbana,1017.93,630.69,No,Caja Municipal,Ocasional,Nulo,Sí
+432,51,Tacna,Rural,484.01,248.67,No,Banco,Nunca,Bueno,No
+433,34,Junín,Urbana,1328.96,57.04,Sí,Financiera,Ocasional,Nulo,Sí
+434,30,Apurímac,Urbana,1120.7,127.15,No,Banco,Nunca,Nulo,Sí
+435,33,Loreto,Urbana,1420.33,380.53,No,Financiera,Mensual,Regular,Sí
+437,34,Apurímac,Urbana,2651.93,499.73,No,Financiera,Mensual,Malo,Sí
+438,49,Apurímac,Urbana,2067.64,153.05,No,Banco,Mensual,Bueno,No
+439,25,Lima,Urbana,2272.69,194.11,No,Financiera,Ocasional,Nulo,Sí
+440,52,Loreto,Urbana,3059.19,342.56,Sí,Caja Municipal,Ocasional,Bueno,Sí
+441,49,Lima,Urbana,2239.02,545.91,No,Financiera,Nunca,Regular,Sí
+442,32,Junín,Rural,754.39,99.24,Sí,Banco,Mensual,Bueno,No
+443,20,Loreto,Rural,2021.91,370.44,Sí,Cooperativa,Mensual,Bueno,Sí
+444,37,Loreto,Urbana,1724.03,192.92,Sí,Banco,Mensual,Nulo,Sí
+445,64,Lima,Urbana,2030.38,501.23,No,Caja Municipal,Nunca,Bueno,No
+446,49,Apurímac,Urbana,1779.52,88.36,Sí,Caja Municipal,Mensual,Bueno,No
+447,53,Lima,Rural,1431.98,352.57,Sí,Caja Municipal,Ocasional,Malo,Sí
+448,23,Tacna,Urbana,517.96,426.8,Sí,Financiera,Nunca,Malo,Sí
+449,37,Lima,Rural,1403.32,227.13,Sí,Caja Municipal,Ocasional,Bueno,Sí
+450,63,Loreto,Rural,1286.75,526.32,No,Banco,Ocasional,Malo,No
+451,58,Apurímac,Urbana,476.2,66.84,Sí,Caja Municipal,Mensual,Regular,Sí
+452,23,Junín,Rural,1866.42,583.47,Sí,Caja Municipal,Mensual,Regular,Sí
+453,41,Apurímac,Urbana,1632.68,16.67,Sí,Ninguna,Nunca,Bueno,No
+454,40,Junín,Urbana,1255.81,206.93,Sí,Banco,Mensual,Malo,Sí
+455,54,Loreto,Rural,2306.36,83.96,No,Banco,Nunca,Regular,No
+456,34,Tacna,Urbana,1805.75,146.17,Sí,Banco,Nunca,Nulo,Sí
+457,21,Loreto,Rural,1416.48,183.61,Sí,Financiera,Ocasional,Regular,No
+458,38,Tacna,Urbana,2287.03,89.12,Sí,Financiera,Mensual,Malo,Sí
+459,34,Tacna,Urbana,1067.95,213.12,No,Banco,Mensual,Regular,Sí
+460,20,Junín,Rural,840.15,312.17,Sí,Cooperativa,Mensual,Regular,Sí
+461,44,Apurímac,Urbana,611.18,133.5,No,Caja Municipal,Mensual,Nulo,Sí
+462,62,Apurímac,Urbana,1244.7,266.27,No,Caja Municipal,Mensual,Malo,No
+463,60,Puno,Urbana,1340.68,452.85,Sí,Financiera,Nunca,Bueno,Sí
+464,45,Loreto,Rural,706.76,127.05,Sí,Financiera,Ocasional,Nulo,Sí
+466,43,Lima,Urbana,1407.62,395.20406072177,Sí,Financiera,Ocasional,Regular,Sí
+467,23,Junín,Urbana,1818.22,206.18,Sí,Caja Municipal,Nunca,Bueno,Sí
+468,42,Tacna,Urbana,979.91,54.92,Sí,Financiera,Ocasional,Regular,Sí
+469,22,Junín,Urbana,2762.54,189.46,No,Cooperativa,Mensual,Regular,Sí
+470,42,Lima,Urbana,1614.3,200.22,Sí,Banco,Ocasional,Regular,Sí
+471,47,Loreto,Urbana,1462.15,506.28,Sí,Banco,Mensual,Bueno,Sí
+472,27,Apurímac,Urbana,1684.86,410.14,No,Caja Municipal,Ocasional,Regular,Sí
+473,50,Apurímac,Rural,1504.75,250.35,No,Banco,Ocasional,Bueno,Sí
+474,59,Loreto,Urbana,316.06,69.034052590587,No,Caja Municipal,Mensual,Regular,Sí
+475,45,Apurímac,Urbana,1577.8,424.41,Sí,Caja Municipal,Ocasional,Malo,No
+477,57,Tacna,Rural,891.6,133.17,No,Financiera,Mensual,Bueno,Sí
+478,54,Junín,Urbana,525.69,439.94,Sí,Caja Municipal,Ocasional,Regular,Sí
+479,57,Loreto,Urbana,1736.48,325.87,Sí,Ninguna,Ocasional,Bueno,No
+480,46,Loreto,Urbana,2098.77,310.27,Sí,Financiera,Mensual,Regular,Sí
+481,23,Apurímac,Urbana,1887.55,264.76942358698,Sí,Caja Municipal,Ocasional,Malo,Sí
+482,35,Lima,Urbana,1104.45,285.7,Sí,Banco,Mensual,Bueno,Sí
+483,32,Tacna,Urbana,1570.64,578.28,Sí,Ninguna,Ocasional,Regular,No
+484,32,Apurímac,Rural,798.26,292.32,No,Banco,Ocasional,Bueno,Sí
+485,24,Junín,Rural,981.4,204.35,Sí,Cooperativa,Mensual,Regular,Sí
+486,41,Tacna,Urbana,1925.29,390.76,Sí,Financiera,Nunca,Regular,Sí
+487,60,Lima,Rural,2603.18,253.13,Sí,Financiera,Mensual,Nulo,No
+488,53,Junín,Urbana,1224.48,120.77,Sí,Caja Municipal,Ocasional,Malo,Sí
+489,50,Puno,Rural,1884.85,217.35,Sí,Financiera,Mensual,Bueno,Sí
+490,22,Tacna,Rural,1465.88,260.49,Sí,Caja Municipal,Mensual,Regular,Sí
+491,25,Puno,Urbana,2164.82,498.95,Sí,Banco,Mensual,Bueno,No
+492,50,Tacna,Rural,785.88,65.49,Sí,Caja Municipal,Mensual,Bueno,Sí
+493,60,Lima,Urbana,1405.21,182.93,Sí,Cooperativa,Ocasional,Bueno,Sí
+494,56,Loreto,Urbana,1358.95,292.24,No,Cooperativa,Ocasional,Regular,Sí
+495,41,Loreto,Urbana,1361.61,397.81,No,Caja Municipal,Mensual,Bueno,Sí
+496,54,Puno,Urbana,1810.39,9.6832340995363,Sí,Caja Municipal,Mensual,Bueno,No
+497,44,Apurímac,Urbana,1878.27,568.51,Sí,Caja Municipal,Nunca,Nulo,Sí
+498,50,Loreto,Rural,1498.88,52.23,Sí,Banco,Ocasional,Bueno,Sí
+499,23,Lima,Urbana,1875.6,136.42124945796,Sí,Banco,Nunca,Malo,Sí
+500,52,Loreto,Urbana,1401.95,265.11,Sí,Ninguna,Mensual,Regular,Sí
+501,41,Apurímac,Urbana,2554.36,154.89,No,Financiera,Nunca,Bueno,Sí
+502,53,Apurímac,Urbana,2213.25,384.03,Sí,Ninguna,Nunca,Malo,Sí
+503,54,Loreto,Urbana,2815.83,729.08,Sí,Caja Municipal,Mensual,Nulo,Sí
+504,35,Loreto,Urbana,1613.43,416.08,Sí,Financiera,Mensual,Bueno,Sí
+505,52,Junín,Urbana,2753.51,157.68,No,Banco,Ocasional,Regular,Sí
+506,54,Apurímac,Rural,1172.44,157.33,No,Banco,Mensual,Malo,No
+507,44,Lima,Urbana,1826.28,362.09,Sí,Banco,Mensual,Nulo,Sí
+508,57,Tacna,Urbana,916.63,287.26,Sí,Ninguna,Nunca,Regular,Sí
+509,20,Tacna,Rural,1722.99,55.33,Sí,Banco,Mensual,Regular,Sí
+510,58,Lima,Rural,1179.92,47.05,Sí,Financiera,Mensual,Malo,Sí
+511,37,Puno,Urbana,1018.23,266.89,Sí,Cooperativa,Mensual,Bueno,No
+512,41,Lima,Urbana,580.47,352.46,Sí,Financiera,Mensual,Bueno,Sí
+513,29,Puno,Urbana,2073.92,340.21,Sí,Financiera,Nunca,Regular,Sí
+514,52,Apurímac,Urbana,1559.51,287.3,No,Cooperativa,Ocasional,Bueno,Sí
+515,20,Lima,Urbana,1482.7,498.67,No,Financiera,Nunca,Nulo,No
+516,49,Junín,Rural,997.61,187.08,Sí,Banco,Mensual,Bueno,Sí
+517,26,Lima,Urbana,1176.78,99.08,Sí,Banco,Mensual,Malo,Sí
+518,26,Loreto,Urbana,2301.15,426.65008301766,Sí,Financiera,Ocasional,Malo,No
+519,51,Tacna,Urbana,1563.97,201.41,Sí,Caja Municipal,Mensual,Bueno,Sí
+520,62,Loreto,Urbana,2715.84,217.21,No,Caja Municipal,Ocasional,Nulo,Sí
+521,38,Puno,Urbana,2034.85,563.2,Sí,Financiera,Ocasional,Malo,Sí
+522,22,Loreto,Urbana,885.26,310.75,No,Financiera,Nunca,Bueno,Sí
+523,64,Apurímac,Urbana,2082.17,39.35,Sí,Banco,Mensual,Bueno,Sí
+524,26,Tacna,Rural,799.15,58.11,No,Caja Municipal,Mensual,Bueno,Sí
+525,21,Puno,Urbana,1896.62,499.92,Sí,Cooperativa,Nunca,Nulo,Sí
+526,31,Lima,Urbana,1941.27,188.16,Sí,Cooperativa,Ocasional,Regular,Sí
+527,51,Lima,Urbana,1174.9,153.40644647203,No,Cooperativa,Mensual,Bueno,Sí
+528,18,Junín,Urbana,2210.52,344.23792060314,Sí,Cooperativa,Mensual,Malo,Sí
+529,64,Apurímac,Urbana,1612.63,316.48,Sí,Banco,Ocasional,Regular,Sí
+530,24,Lima,Urbana,1002.26,267.51,Sí,Caja Municipal,Mensual,Regular,No
+531,53,Junín,Urbana,936.9,10.544449389293,No,Ninguna,Nunca,Regular,No
+532,44,Lima,Urbana,1781.93,149.27,No,Banco,Mensual,Regular,Sí
+533,31,Puno,Urbana,1690.29,135.12,Sí,Financiera,Mensual,Malo,Sí
+534,23,Tacna,Urbana,770.76,19.65,No,Ninguna,Nunca,Malo,No
+535,60,Loreto,Urbana,936.64,83.52,Sí,Banco,Ocasional,Malo,Sí
+536,55,Junín,Rural,992.59,178.27,No,Financiera,Ocasional,Malo,Sí
+537,21,Loreto,Rural,1010.83,94.41,Sí,Caja Municipal,Mensual,Bueno,Sí
+538,32,Lima,Urbana,2062.32,285.13,Sí,Financiera,Ocasional,Bueno,Sí
+539,55,Junín,Urbana,1958.24,461.53,Sí,Ninguna,Ocasional,Bueno,No
+540,34,Junín,Urbana,915.68,242.31,No,Caja Municipal,Nunca,Bueno,Sí
+541,24,Loreto,Rural,1683.08,154.03,Sí,Cooperativa,Mensual,Regular,Sí
+542,50,Loreto,Urbana,592.88,207.47737341137,Sí,Ninguna,Mensual,Malo,Sí
+543,49,Loreto,Rural,2055.68,307.23,No,Caja Municipal,Mensual,Regular,Sí
+544,33,Tacna,Rural,1205.34,489.93,Sí,Banco,Nunca,Regular,Sí
+545,42,Apurímac,Urbana,1498.89,720.44,Sí,Caja Municipal,Ocasional,Malo,No
+546,43,Junín,Urbana,1745.0,171.52,Sí,Caja Municipal,Ocasional,Regular,Sí
+547,40,Junín,Rural,1040.86,263.72,Sí,Banco,Ocasional,Regular,Sí
+548,30,Puno,Rural,1248.5,215.45,Sí,Banco,Nunca,Malo,No
+549,21,Tacna,Urbana,1304.39,253.15947560355,No,Banco,Ocasional,Bueno,No
+550,34,Puno,Urbana,1381.86,646.01,Sí,Cooperativa,Mensual,Regular,Sí
+551,47,Loreto,Urbana,1741.32,298.46,Sí,Caja Municipal,Ocasional,Regular,Sí
+552,31,Apurímac,Urbana,821.47,452.91,Sí,Caja Municipal,Nunca,Regular,No
+553,19,Lima,Urbana,2191.0,499.38,No,Banco,Mensual,Bueno,No
+554,52,Lima,Rural,2035.44,368.44,Sí,Banco,Nunca,Bueno,No
+555,41,Apurímac,Urbana,588.79,181.24,Sí,Banco,Ocasional,Malo,No
+556,46,Tacna,Rural,395.16,239.6487549409,No,Cooperativa,Ocasional,Bueno,No
+557,59,Puno,Urbana,1373.12,274.04,Sí,Banco,Mensual,Regular,Sí
+558,21,Lima,Urbana,1082.49,196.97,Sí,Financiera,Mensual,Malo,No
+559,30,Apurímac,Rural,1422.07,479.16,No,Financiera,Mensual,Malo,Sí
+560,47,Junín,Urbana,1451.01,161.0,Sí,Banco,Mensual,Malo,No
+561,57,Tacna,Urbana,953.56,376.8,Sí,Cooperativa,Nunca,Bueno,Sí
+562,60,Lima,Urbana,1040.61,497.75452280821,No,Financiera,Ocasional,Regular,Sí
+563,38,Tacna,Rural,1709.78,208.99,Sí,Caja Municipal,Mensual,Regular,No
+564,58,Junín,Rural,1780.06,202.37,Sí,Banco,Nunca,Bueno,Sí
+565,18,Puno,Urbana,1044.02,266.66,No,Caja Municipal,Mensual,Bueno,Sí
+566,35,Apurímac,Urbana,784.15,191.31,Sí,Financiera,Ocasional,Regular,No
+567,61,Puno,Urbana,2534.92,314.02,Sí,Banco,Mensual,Bueno,Sí
+568,30,Apurímac,Urbana,1338.57,266.64,Sí,Financiera,Mensual,Regular,Sí
+569,37,Puno,Urbana,645.35,434.11762538751,Sí,Caja Municipal,Nunca,Regular,Sí
+570,63,Junín,Urbana,318.72,240.89,Sí,Ninguna,Ocasional,Bueno,Sí
+571,58,Apurímac,Rural,1002.61,391.76,No,Banco,Mensual,Regular,Sí
+572,45,Loreto,Rural,953.99,402.96882431254,Sí,Banco,Mensual,Regular,Sí
+573,52,Puno,Rural,1480.99,248.13,Sí,Cooperativa,Ocasional,Bueno,Sí
+574,41,Apurímac,Urbana,1690.48,86.86,Sí,Banco,Nunca,Malo,Sí
+575,26,Loreto,Rural,1767.64,204.63,No,Caja Municipal,Ocasional,Regular,Sí
+576,40,Loreto,Urbana,1885.17,626.95,Sí,Banco,Mensual,Bueno,Sí
+577,30,Apurímac,Rural,1940.6,617.07,Sí,Banco,Nunca,Regular,Sí
+578,53,Tacna,Urbana,1394.21,401.74,Sí,Caja Municipal,Ocasional,Regular,Sí
+579,36,Tacna,Urbana,2761.46,35.84,No,Financiera,Nunca,Regular,Sí
+580,51,Tacna,Urbana,912.97,219.39,No,Banco,Mensual,Bueno,No
+581,35,Junín,Urbana,2002.67,42.34,Sí,Banco,Ocasional,Bueno,Sí
+582,18,Apurímac,Urbana,1403.15,499.55,Sí,Caja Municipal,Mensual,Bueno,No
+583,45,Puno,Urbana,2096.82,83.8,No,Banco,Mensual,Regular,Sí
+584,27,Puno,Urbana,2375.15,166.33,No,Banco,Nunca,Bueno,Sí
+585,36,Tacna,Urbana,2051.58,5.57,Sí,Banco,Mensual,Nulo,No
+586,50,Apurímac,Rural,1441.64,129.63,Sí,Banco,Ocasional,Malo,No
+587,19,Junín,Rural,1348.58,67.77,No,Banco,Nunca,Bueno,No
+588,22,Tacna,Urbana,1895.9,231.36,Sí,Cooperativa,Mensual,Regular,Sí
+589,25,Puno,Urbana,1619.21,268.58,Sí,Cooperativa,Ocasional,Regular,No
+590,62,Apurímac,Urbana,1014.24,180.93,No,Cooperativa,Ocasional,Regular,Sí
+591,39,Puno,Urbana,1157.56,363.06,Sí,Banco,Mensual,Nulo,Sí
+592,40,Puno,Urbana,1654.8,247.72,Sí,Financiera,Mensual,Bueno,No
+593,53,Lima,Urbana,1531.74,268.89,No,Caja Municipal,Ocasional,Bueno,Sí
+594,22,Lima,Urbana,1737.43,238.2,Sí,Ninguna,Mensual,Malo,Sí
+595,24,Lima,Urbana,1439.15,508.35,No,Ninguna,Ocasional,Regular,No
+596,29,Junín,Urbana,836.11,227.02,Sí,Financiera,Nunca,Bueno,Sí
+597,32,Loreto,Urbana,542.91,180.0,No,Ninguna,Mensual,Bueno,Sí
+598,63,Loreto,Urbana,1752.75,140.49,No,Caja Municipal,Mensual,Bueno,No
+599,48,Loreto,Rural,1947.3,522.27,No,Caja Municipal,Nunca,Bueno,Sí
+600,30,Lima,Rural,1151.61,354.28,Sí,Banco,Mensual,Regular,No
+601,24,Lima,Urbana,1622.46,213.44,Sí,Banco,Mensual,Regular,Sí
+602,35,Apurímac,Rural,514.46,332.77,Sí,Banco,Nunca,Bueno,Sí
+603,25,Apurímac,Urbana,2138.42,298.92,Sí,Ninguna,Ocasional,Bueno,Sí
+604,57,Lima,Rural,988.13,214.43,Sí,Banco,Ocasional,Malo,Sí
+605,35,Tacna,Urbana,1866.34,677.01,No,Banco,Nunca,Bueno,Sí
+606,49,Tacna,Urbana,1456.35,582.46,No,Banco,Ocasional,Regular,Sí
+607,33,Puno,Urbana,1004.91,245.28,Sí,Financiera,Ocasional,Bueno,Sí
+608,61,Tacna,Rural,1169.6,245.46,No,Banco,Ocasional,Nulo,Sí
+609,21,Junín,Urbana,2754.89,356.89,Sí,Banco,Ocasional,Malo,Sí
+610,49,Tacna,Urbana,978.1,9.72,No,Ninguna,Mensual,Nulo,Sí
+611,39,Loreto,Urbana,1767.84,678.49,No,Caja Municipal,Mensual,Malo,Sí
+612,40,Puno,Rural,1682.61,334.18907104566,Sí,Banco,Mensual,Nulo,Sí
+613,26,Apurímac,Rural,1397.9,533.78,Sí,Caja Municipal,Nunca,Regular,Sí
+614,37,Apurímac,Urbana,716.03,345.5,Sí,Caja Municipal,Nunca,Bueno,No
+615,38,Junín,Urbana,1078.6,41.91,Sí,Cooperativa,Mensual,Malo,No
+616,46,Apurímac,Urbana,896.77,354.22,Sí,Caja Municipal,Ocasional,Bueno,No
+617,31,Apurímac,Urbana,1029.74,718.49,Sí,Financiera,Ocasional,Regular,No
+618,41,Puno,Urbana,1159.78,207.83,Sí,Caja Municipal,Mensual,Regular,No
+619,24,Loreto,Urbana,2505.25,494.56,No,Banco,Mensual,Regular,Sí
+620,41,Apurímac,Rural,734.11,577.83,No,Banco,Mensual,Nulo,Sí
+621,27,Apurímac,Urbana,1970.34,750.88,Sí,Caja Municipal,Mensual,Bueno,Sí
+622,63,Lima,Urbana,1040.76,590.53,Sí,Banco,Nunca,Regular,Sí
+623,49,Apurímac,Rural,1509.33,414.07,Sí,Banco,Ocasional,Malo,Sí
+624,46,Lima,Urbana,3007.98,322.58,Sí,Banco,Mensual,Malo,No
+625,23,Loreto,Rural,717.52,438.08,Sí,Banco,Mensual,Malo,Sí
+626,26,Junín,Rural,1589.98,248.14865565273,No,Financiera,Nunca,Malo,No
+627,57,Loreto,Urbana,1927.73,235.59,No,Banco,Mensual,Bueno,Sí
+628,45,Apurímac,Urbana,2240.62,337.06,No,Banco,Mensual,Regular,Sí
+629,47,Apurímac,Urbana,1148.14,346.98,No,Banco,Mensual,Regular,Sí
+630,57,Loreto,Urbana,1773.93,59.19,No,Ninguna,Mensual,Bueno,Sí
+631,30,Loreto,Rural,2464.56,267.72,Sí,Banco,Ocasional,Bueno,Sí
+632,51,Lima,Urbana,2442.6,43.24,Sí,Caja Municipal,Mensual,Bueno,No
+633,63,Lima,Urbana,1273.42,49.98,No,Banco,Mensual,Malo,Sí
+634,42,Puno,Rural,591.1,49.73,No,Banco,Ocasional,Regular,Sí
+635,37,Junín,Rural,1768.07,36.17,Sí,Cooperativa,Mensual,Nulo,No
+636,37,Loreto,Urbana,2042.12,268.42,Sí,Financiera,Nunca,Regular,No
+637,32,Loreto,Rural,1392.76,282.88,No,Financiera,Ocasional,Bueno,Sí
+638,22,Apurímac,Urbana,1637.65,113.10837851801,No,Banco,Mensual,Regular,Sí
+639,23,Loreto,Rural,1491.95,443.69,Sí,Financiera,Ocasional,Bueno,Sí
+640,23,Loreto,Urbana,529.58,159.14,No,Banco,Ocasional,Bueno,Sí
+641,26,Puno,Urbana,1291.22,133.96,Sí,Caja Municipal,Nunca,Bueno,No
+642,62,Lima,Urbana,1078.35,53.94,Sí,Ninguna,Mensual,Bueno,No
+643,55,Loreto,Urbana,2071.96,208.66,No,Financiera,Nunca,Regular,Sí
+644,24,Junín,Urbana,2392.57,575.9,Sí,Banco,Ocasional,Bueno,No
+645,24,Junín,Urbana,796.59,528.74,No,Cooperativa,Mensual,Regular,Sí
+646,55,Lima,Rural,1659.83,441.84,Sí,Caja Municipal,Mensual,Regular,Sí
+647,21,Loreto,Urbana,899.37,240.02,Sí,Cooperativa,Mensual,Regular,Sí
+648,39,Puno,Urbana,938.7,398.23,No,Caja Municipal,Mensual,Regular,No
+649,32,Puno,Urbana,1197.9,299.1,No,Ninguna,Nunca,Regular,Sí
+650,48,Lima,Urbana,515.73,93.5,No,Caja Municipal,Mensual,Malo,Sí
+651,61,Tacna,Urbana,2355.45,589.91,Sí,Cooperativa,Mensual,Bueno,No
+652,19,Tacna,Urbana,967.9,379.80165660111,Sí,Banco,Mensual,Regular,Sí
+653,57,Tacna,Urbana,1282.86,554.61,No,Cooperativa,Mensual,Malo,No
+654,40,Junín,Urbana,1236.43,288.09,No,Cooperativa,Ocasional,Regular,Sí
+655,64,Lima,Rural,1688.89,238.23,Sí,Financiera,Mensual,Bueno,Sí
+656,36,Lima,Urbana,2164.12,566.71,No,Ninguna,Nunca,Malo,Sí
+657,61,Junín,Urbana,1508.86,670.07,No,Banco,Ocasional,Bueno,No
+659,38,Lima,Urbana,1617.51,102.13,No,Cooperativa,Mensual,Bueno,Sí
+660,53,Puno,Urbana,1261.98,323.21,No,Caja Municipal,Ocasional,Malo,Sí
+661,41,Junín,Urbana,1661.4524791816,223.44,No,Ninguna,Mensual,Malo,No
+662,38,Junín,Urbana,1949.22,392.93,No,Banco,Ocasional,Regular,Sí
+663,46,Junín,Urbana,1033.38,76.48,No,Caja Municipal,Mensual,Bueno,Sí
+664,58,Junín,Urbana,1763.51,273.96,No,Banco,Mensual,Bueno,No
+665,25,Loreto,Rural,1159.51,396.09,Sí,Banco,Mensual,Bueno,Sí
+666,21,Apurímac,Rural,1473.6,516.86,No,Ninguna,Mensual,Bueno,No
+667,31,Loreto,Urbana,705.97,156.77,No,Caja Municipal,Nunca,Malo,Sí
+668,45,Apurímac,Urbana,1356.04,102.79,No,Cooperativa,Ocasional,Bueno,Sí
+669,53,Lima,Urbana,631.66,66.18,Sí,Banco,Mensual,Regular,Sí
+671,29,Loreto,Rural,2482.94,248.42,Sí,Banco,Mensual,Bueno,Sí
+672,21,Loreto,Urbana,1166.94,202.34,Sí,Banco,Ocasional,Nulo,Sí
+673,44,Tacna,Urbana,727.13,494.26,Sí,Caja Municipal,Mensual,Regular,Sí
+674,45,Lima,Urbana,2072.08,12.4,No,Banco,Mensual,Bueno,Sí
+675,39,Junín,Rural,1524.07,470.24,No,Caja Municipal,Mensual,Regular,No
+676,19,Apurímac,Rural,1725.15,223.65,No,Banco,Mensual,Bueno,No
+677,52,Loreto,Urbana,1152.81,258.25,Sí,Banco,Nunca,Bueno,Sí
+678,52,Puno,Urbana,1193.3,166.46740520475,No,Financiera,Mensual,Regular,Sí
+679,36,Puno,Urbana,1228.82,267.04,Sí,Ninguna,Ocasional,Regular,Sí
+680,33,Puno,Rural,1836.31,216.72,No,Financiera,Mensual,Bueno,Sí
+681,48,Puno,Urbana,1489.32,301.85,No,Banco,Mensual,Regular,Sí
+682,59,Apurímac,Urbana,719.48,53.676804040258,No,Cooperativa,Mensual,Regular,Sí
+683,46,Puno,Rural,1410.33,432.42,Sí,Cooperativa,Ocasional,Bueno,No
+684,50,Apurímac,Urbana,723.02,293.54,No,Ninguna,Mensual,Bueno,Sí
+685,34,Loreto,Urbana,1232.99,223.61337367077,Sí,Cooperativa,Mensual,Regular,Sí
+686,62,Puno,Urbana,972.96,231.52,Sí,Caja Municipal,Mensual,Bueno,No
+687,62,Puno,Rural,1362.89,222.89,Sí,Cooperativa,Mensual,Bueno,Sí
+688,57,Apurímac,Urbana,1841.14,97.04,No,Banco,Mensual,Nulo,No
+690,39,Tacna,Rural,1356.46,333.25,No,Ninguna,Mensual,Regular,Sí
+692,30,Puno,Urbana,2212.229532378,103.52,No,Financiera,Nunca,Regular,Sí
+693,38,Loreto,Urbana,1513.87,630.24,No,Cooperativa,Nunca,Regular,Sí
+694,50,Tacna,Rural,1474.43,199.67,Sí,Financiera,Ocasional,Bueno,Sí
+695,30,Loreto,Rural,1529.55,264.69,Sí,Ninguna,Mensual,Regular,Sí
+696,22,Junín,Urbana,2641.88,212.15,No,Financiera,Mensual,Regular,No
+697,20,Apurímac,Urbana,781.39,59.63,Sí,Financiera,Nunca,Nulo,Sí
+698,50,Puno,Rural,1511.18,146.9,Sí,Caja Municipal,Ocasional,Bueno,Sí
+699,24,Apurímac,Urbana,601.01,127.9,Sí,Financiera,Nunca,Regular,No
+700,53,Apurímac,Urbana,2081.41,295.13,No,Banco,Mensual,Regular,Sí
+701,44,Apurímac,Urbana,1944.29,321.08,No,Banco,Ocasional,Nulo,Sí
+702,31,Apurímac,Urbana,1484.44,385.81,Sí,Caja Municipal,Ocasional,Bueno,No
+703,18,Apurímac,Urbana,799.96,88.36,Sí,Financiera,Mensual,Regular,Sí
+704,40,Junín,Urbana,2824.54,272.99,No,Financiera,Mensual,Regular,No
+705,26,Loreto,Urbana,1950.69,168.91,Sí,Banco,Nunca,Bueno,Sí
+707,58,Lima,Urbana,1067.63,178.2,Sí,Banco,Mensual,Nulo,Sí
+708,35,Loreto,Rural,1410.75,84.61,No,Caja Municipal,Mensual,Regular,No
+709,49,Loreto,Urbana,2006.73,275.81,No,Banco,Mensual,Bueno,Sí
+710,33,Loreto,Rural,1314.06,592.28,Sí,Financiera,Mensual,Nulo,Sí
+711,48,Junín,Urbana,1756.68,100.78,Sí,Ninguna,Ocasional,Bueno,Sí
+712,45,Lima,Rural,1682.74,373.82,Sí,Cooperativa,Ocasional,Bueno,Sí
+713,58,Loreto,Rural,2268.97,71.32,Sí,Cooperativa,Mensual,Bueno,Sí
+714,46,Apurímac,Urbana,1783.64,49.97,No,Caja Municipal,Ocasional,Bueno,Sí
+715,58,Junín,Urbana,935.97,388.43,Sí,Financiera,Ocasional,Regular,Sí
+716,52,Apurímac,Urbana,1778.2,237.25,No,Banco,Ocasional,Regular,Sí
+717,19,Junín,Urbana,2044.34,289.98,Sí,Caja Municipal,Mensual,Malo,Sí
+718,38,Puno,Urbana,855.07,472.04,No,Ninguna,Ocasional,Bueno,Sí
+719,48,Apurímac,Rural,947.58,236.03,Sí,Ninguna,Ocasional,Bueno,Sí
+721,25,Lima,Urbana,2022.09,122.33032739796,Sí,Financiera,Ocasional,Malo,Sí
+722,24,Tacna,Urbana,2076.18,140.8,No,Banco,Ocasional,Malo,Sí
+723,41,Junín,Urbana,1394.35,252.02,No,Banco,Ocasional,Malo,Sí
+724,40,Lima,Urbana,1568.42,328.55,No,Caja Municipal,Mensual,Nulo,No
+725,50,Tacna,Urbana,1785.98,259.28,No,Banco,Ocasional,Regular,Sí
+726,29,Tacna,Rural,769.69,523.05,Sí,Caja Municipal,Ocasional,Bueno,Sí
+727,26,Loreto,Rural,1036.75,302.69,Sí,Cooperativa,Mensual,Bueno,No
+728,37,Tacna,Rural,1518.33,18.89,Sí,Cooperativa,Nunca,Bueno,Sí
+729,32,Puno,Urbana,2865.52,189.6706938906,Sí,Banco,Mensual,Regular,Sí
+730,43,Puno,Rural,614.35,113.12,Sí,Financiera,Mensual,Bueno,No
+731,33,Puno,Rural,1326.82,167.6,Sí,Cooperativa,Mensual,Bueno,No
+732,46,Tacna,Urbana,1100.85,444.9,No,Banco,Ocasional,Malo,Sí
+733,21,Apurímac,Rural,1493.5,476.54,Sí,Ninguna,Nunca,Regular,Sí
+734,22,Apurímac,Rural,1031.3,13.471138560303,Sí,Caja Municipal,Mensual,Malo,Sí
+735,31,Lima,Urbana,915.0,521.75,Sí,Banco,Ocasional,Bueno,Sí
+736,26,Tacna,Rural,1505.8,148.48,No,Financiera,Nunca,Bueno,No
+737,59,Apurímac,Urbana,917.42,515.1,Sí,Cooperativa,Ocasional,Nulo,No
+738,24,Tacna,Urbana,1400.27,423.65,Sí,Caja Municipal,Mensual,Regular,No
+739,22,Lima,Rural,1394.33,98.83,No,Banco,Mensual,Regular,Sí
+740,54,Lima,Urbana,2308.38,673.49,Sí,Caja Municipal,Mensual,Malo,Sí
+741,32,Tacna,Rural,2244.83,437.14,No,Cooperativa,Mensual,Bueno,Sí
+742,34,Puno,Urbana,1986.62,338.01,Sí,Caja Municipal,Nunca,Bueno,Sí
+743,52,Lima,Urbana,894.47,213.04,No,Caja Municipal,Nunca,Bueno,Sí
+744,49,Lima,Urbana,2416.59,225.36,No,Caja Municipal,Nunca,Bueno,Sí
+745,29,Apurímac,Urbana,1308.48,173.86,Sí,Caja Municipal,Mensual,Regular,Sí
+746,35,Apurímac,Rural,1597.52,454.57,Sí,Cooperativa,Mensual,Bueno,Sí
+747,55,Apurímac,Urbana,837.58,184.8,No,Banco,Mensual,Bueno,Sí
+748,30,Loreto,Urbana,1905.39,28.12,No,Cooperativa,Mensual,Regular,Sí
+749,19,Puno,Urbana,2067.33,162.02,Sí,Banco,Mensual,Bueno,Sí
+750,37,Tacna,Urbana,2117.89,124.61,No,Banco,Ocasional,Malo,Sí
+751,27,Apurímac,Rural,1899.26,59.29,Sí,Financiera,Nunca,Malo,Sí
+752,42,Junín,Urbana,1580.8030407053,215.42,Sí,Banco,Ocasional,Regular,No
+753,47,Puno,Urbana,811.13,175.46,Sí,Caja Municipal,Mensual,Bueno,No
+754,60,Junín,Rural,1233.23,267.57,Sí,Banco,Ocasional,Bueno,No
+755,45,Loreto,Urbana,834.48,15.86,Sí,Banco,Ocasional,Regular,No
+756,63,Lima,Urbana,1674.14,204.21,Sí,Banco,Ocasional,Bueno,Sí
+757,44,Puno,Urbana,1792.5,245.58611080672,Sí,Caja Municipal,Mensual,Nulo,Sí
+758,39,Apurímac,Urbana,752.91,59.28,Sí,Cooperativa,Mensual,Bueno,Sí
+759,41,Apurímac,Rural,2820.57,259.7944829999,No,Financiera,Mensual,Bueno,No
+760,43,Apurímac,Urbana,530.42,27.3,No,Caja Municipal,Mensual,Regular,Sí
+761,22,Puno,Urbana,1452.93,651.0,Sí,Financiera,Mensual,Bueno,Sí
+762,30,Puno,Urbana,1663.12,258.26,Sí,Caja Municipal,Mensual,Nulo,No
+763,46,Tacna,Urbana,1526.73,245.33,Sí,Banco,Nunca,Bueno,Sí
+764,47,Loreto,Urbana,1619.75,472.01,Sí,Caja Municipal,Mensual,Regular,No
+765,46,Tacna,Rural,1730.37,99.06,Sí,Caja Municipal,Mensual,Nulo,Sí
+766,60,Tacna,Urbana,2308.61,492.48,Sí,Caja Municipal,Ocasional,Bueno,No
+767,58,Tacna,Urbana,832.66,121.3761763202,Sí,Cooperativa,Mensual,Nulo,Sí
+768,23,Lima,Urbana,1607.47,256.6,No,Financiera,Ocasional,Regular,Sí
+769,54,Puno,Rural,1406.08,149.28,Sí,Banco,Mensual,Regular,Sí
+770,63,Apurímac,Rural,1317.9,32.0,No,Financiera,Ocasional,Bueno,No
+771,56,Lima,Urbana,335.98,97.31,Sí,Financiera,Mensual,Regular,Sí
+772,64,Apurímac,Rural,1405.42,169.09,Sí,Caja Municipal,Mensual,Bueno,Sí
+773,21,Lima,Urbana,1260.96,400.32458494647,Sí,Caja Municipal,Mensual,Bueno,No
+774,23,Lima,Urbana,800.51,25.94,Sí,Banco,Nunca,Regular,Sí
+775,34,Puno,Urbana,1456.38,162.34,No,Ninguna,Mensual,Malo,Sí
+776,21,Puno,Urbana,1804.63,511.03,Sí,Financiera,Mensual,Bueno,No
+777,25,Junín,Urbana,2167.53,297.95,Sí,Banco,Mensual,Regular,Sí
+778,61,Loreto,Rural,703.85,308.96,No,Caja Municipal,Ocasional,Regular,Sí
+779,22,Tacna,Urbana,1089.49,92.2,No,Banco,Ocasional,Regular,Sí
+780,45,Puno,Rural,2348.87,181.12,Sí,Caja Municipal,Mensual,Bueno,No
+782,51,Lima,Urbana,1350.42,407.89,No,Caja Municipal,Ocasional,Malo,Sí
+783,50,Junín,Urbana,898.78,256.29,Sí,Cooperativa,Nunca,Bueno,No
+784,22,Lima,Urbana,2461.67,144.20100348259,No,Caja Municipal,Mensual,Regular,Sí
+785,28,Junín,Urbana,1294.03,533.69,No,Banco,Ocasional,Regular,Sí
+786,55,Puno,Urbana,2139.55,314.99,No,Caja Municipal,Mensual,Bueno,Sí
+787,59,Lima,Urbana,1244.44,169.87,Sí,Banco,Nunca,Malo,No
+788,48,Apurímac,Rural,561.82,228.56,Sí,Caja Municipal,Mensual,Malo,Sí
+789,20,Loreto,Urbana,1441.98,141.29,Sí,Caja Municipal,Mensual,Bueno,Sí
+790,29,Apurímac,Urbana,1937.57,257.38,No,Financiera,Mensual,Bueno,No
+791,36,Puno,Urbana,1589.33,80.984236304212,No,Financiera,Mensual,Nulo,Sí
+792,59,Tacna,Urbana,1021.75,77.99,Sí,Caja Municipal,Ocasional,Regular,No
+793,31,Lima,Urbana,2109.35,714.01,Sí,Banco,Mensual,Regular,No
+794,44,Tacna,Urbana,283.14,274.98,Sí,Caja Municipal,Mensual,Regular,Sí
+795,41,Puno,Rural,1654.84,513.38,Sí,Financiera,Mensual,Malo,Sí
+796,36,Tacna,Urbana,1885.9,332.65,Sí,Banco,Mensual,Regular,No
+797,43,Apurímac,Rural,1412.36,527.13,Sí,Caja Municipal,Nunca,Bueno,Sí
+798,18,Lima,Rural,1176.48,557.27,No,Banco,Nunca,Bueno,Sí
+799,40,Tacna,Rural,1513.69,265.44,No,Cooperativa,Ocasional,Regular,Sí
+800,27,Lima,Rural,771.37,170.45,Sí,Banco,Ocasional,Bueno,Sí
+802,58,Junín,Urbana,853.76,171.02,Sí,Financiera,Mensual,Regular,Sí
+804,52,Loreto,Urbana,1953.71,125.93,No,Financiera,Ocasional,Bueno,Sí
+805,24,Puno,Urbana,857.29,391.54,No,Financiera,Mensual,Regular,No
+806,52,Apurímac,Urbana,2305.07,106.8,Sí,Cooperativa,Nunca,Regular,Sí
+807,53,Lima,Rural,767.93,336.74,No,Cooperativa,Ocasional,Malo,No
+808,25,Tacna,Rural,642.79,516.19,No,Caja Municipal,Ocasional,Regular,Sí
+809,62,Lima,Urbana,2636.28,298.99,No,Caja Municipal,Mensual,Malo,Sí
+810,28,Junín,Rural,1253.73,260.39,Sí,Caja Municipal,Mensual,Bueno,No
+811,31,Puno,Rural,1153.13,150.69,Sí,Banco,Ocasional,Regular,No
+812,46,Puno,Urbana,1183.34,414.77,Sí,Financiera,Mensual,Bueno,Sí
+813,55,Loreto,Rural,2694.7,302.31,No,Caja Municipal,Mensual,Bueno,Sí
+814,57,Lima,Rural,2068.37,492.08,Sí,Financiera,Nunca,Bueno,Sí
+815,35,Puno,Urbana,1753.61,400.78,Sí,Caja Municipal,Mensual,Bueno,Sí
+816,36,Tacna,Urbana,857.14,160.08,Sí,Caja Municipal,Ocasional,Bueno,Sí
+817,32,Apurímac,Urbana,2100.58,404.73,Sí,Banco,Mensual,Nulo,No
+818,35,Junín,Urbana,1525.94,66.169452147746,Sí,Ninguna,Ocasional,Bueno,No
+819,31,Tacna,Urbana,752.2,312.14,Sí,Banco,Mensual,Regular,Sí
+820,47,Apurímac,Rural,2386.05,23.38,Sí,Banco,Mensual,Bueno,No
+821,49,Junín,Rural,1960.46,169.67522626524,No,Banco,Ocasional,Bueno,Sí
+822,60,Lima,Urbana,1528.99,284.7,Sí,Cooperativa,Ocasional,Regular,Sí
+823,50,Lima,Urbana,1126.84,66.81,Sí,Caja Municipal,Mensual,Malo,No
+824,23,Apurímac,Urbana,986.83,162.47,Sí,Caja Municipal,Nunca,Nulo,Sí
+825,29,Junín,Urbana,1673.7,6.51,Sí,Cooperativa,Mensual,Bueno,Sí
+826,39,Lima,Urbana,2121.73,237.01,Sí,Banco,Mensual,Regular,Sí
+827,55,Lima,Urbana,1422.05,430.77,Sí,Caja Municipal,Nunca,Nulo,No
+828,41,Junín,Urbana,1802.91,295.13,Sí,Banco,Nunca,Nulo,Sí
+829,57,Puno,Urbana,2113.14,426.68621043781,No,Financiera,Nunca,Nulo,No
+830,48,Tacna,Rural,586.6,196.2,No,Caja Municipal,Mensual,Regular,Sí
+831,52,Lima,Rural,1574.09,186.9835795615,Sí,Financiera,Mensual,Bueno,No
+832,52,Lima,Urbana,1379.69,202.37,Sí,Banco,Mensual,Nulo,Sí
+833,18,Tacna,Urbana,1164.59,534.25,No,Caja Municipal,Ocasional,Malo,No
+834,33,Lima,Urbana,2101.39,145.21,Sí,Banco,Mensual,Malo,Sí
+835,18,Junín,Urbana,1241.45,266.35,No,Caja Municipal,Nunca,Bueno,No
+836,30,Loreto,Urbana,1892.54,350.66,No,Cooperativa,Mensual,Regular,Sí
+837,20,Junín,Urbana,909.19,122.72,Sí,Banco,Ocasional,Regular,Sí
+838,48,Loreto,Urbana,1529.96,63.92,No,Financiera,Nunca,Bueno,Sí
+839,58,Junín,Urbana,1353.54,71.39,No,Banco,Mensual,Regular,Sí
+840,43,Junín,Rural,795.85,380.42,No,Caja Municipal,Ocasional,Nulo,Sí
+841,38,Lima,Urbana,462.78,293.94,No,Financiera,Ocasional,Regular,No
+842,38,Apurímac,Urbana,1787.37,262.42,Sí,Ninguna,Mensual,Malo,Sí
+843,40,Lima,Urbana,1700.83,462.03687379269,Sí,Banco,Ocasional,Regular,Sí
+844,35,Puno,Urbana,2112.13,481.62,No,Cooperativa,Nunca,Regular,Sí
+845,19,Junín,Urbana,765.83,445.13,No,Banco,Ocasional,Regular,Sí
+846,57,Lima,Urbana,1501.55,66.63,Sí,Ninguna,Nunca,Regular,No
+847,54,Tacna,Urbana,2523.75,355.18,No,Ninguna,Nunca,Bueno,No
+848,60,Apurímac,Rural,467.17,180.83740941605,No,Caja Municipal,Mensual,Bueno,No
+849,43,Loreto,Rural,1598.76,378.84,No,Caja Municipal,Mensual,Bueno,Sí
+850,34,Tacna,Urbana,776.32,304.82,Sí,Financiera,Mensual,Regular,No
+851,35,Puno,Urbana,1357.22,425.7,Sí,Caja Municipal,Nunca,Bueno,Sí
+852,18,Tacna,Urbana,1258.05,485.07,Sí,Banco,Mensual,Bueno,Sí
+853,53,Tacna,Rural,2557.25,336.52,No,Financiera,Ocasional,Bueno,Sí
+854,56,Apurímac,Urbana,1407.53,352.4,Sí,Caja Municipal,Nunca,Bueno,Sí
+855,23,Apurímac,Urbana,1928.77,342.1,Sí,Cooperativa,Nunca,Bueno,No
+856,32,Puno,Urbana,397.58,130.40054251552,Sí,Caja Municipal,Nunca,Nulo,No
+857,34,Puno,Urbana,1625.31,450.39,No,Ninguna,Nunca,Bueno,Sí
+858,30,Junín,Urbana,1929.61,758.68,Sí,Caja Municipal,Nunca,Malo,Sí
+859,33,Lima,Urbana,1354.64,197.4,Sí,Ninguna,Ocasional,Malo,Sí
+860,25,Tacna,Rural,1354.95,177.39,Sí,Banco,Mensual,Malo,Sí
+861,39,Tacna,Urbana,1083.13,427.98621200508,Sí,Cooperativa,Ocasional,Malo,No
+862,44,Loreto,Urbana,1322.35,539.57,Sí,Caja Municipal,Mensual,Malo,Sí
+863,46,Lima,Rural,1983.04,338.77,Sí,Financiera,Mensual,Bueno,Sí
+864,31,Puno,Rural,1316.17,170.03,Sí,Ninguna,Mensual,Bueno,Sí
+865,64,Junín,Urbana,1133.25,229.04,No,Caja Municipal,Nunca,Nulo,Sí
+866,62,Junín,Urbana,1007.51,250.61,No,Banco,Mensual,Regular,Sí
+867,47,Junín,Rural,1539.56,496.68,Sí,Ninguna,Nunca,Nulo,Sí
+868,32,Loreto,Rural,1828.06,103.28,Sí,Caja Municipal,Nunca,Bueno,Sí
+869,47,Lima,Urbana,1111.65,80.52,Sí,Ninguna,Nunca,Malo,Sí
+870,51,Junín,Urbana,1297.02,20.32,No,Ninguna,Nunca,Bueno,Sí
+871,20,Junín,Urbana,2681.6,773.58,Sí,Financiera,Mensual,Bueno,Sí
+872,38,Apurímac,Urbana,1648.15,346.61,Sí,Cooperativa,Mensual,Regular,Sí
+873,54,Lima,Urbana,2240.18,325.06,No,Banco,Mensual,Bueno,Sí
+874,43,Apurímac,Urbana,1421.62,503.78,No,Caja Municipal,Ocasional,Regular,Sí
+875,53,Tacna,Rural,1423.99,145.64,Sí,Banco,Mensual,Bueno,Sí
+876,18,Puno,Urbana,2349.62,239.85,No,Banco,Mensual,Bueno,No
+877,25,Loreto,Urbana,1960.12,344.75541796754,Sí,Caja Municipal,Ocasional,Bueno,No
+878,44,Puno,Rural,1134.53,301.18,Sí,Financiera,Mensual,Malo,Sí
+879,32,Tacna,Urbana,1561.12,23.97,No,Financiera,Nunca,Bueno,Sí
+880,19,Loreto,Urbana,1940.28,322.37,Sí,Caja Municipal,Ocasional,Bueno,Sí
+881,19,Puno,Rural,1485.33,712.4,Sí,Financiera,Nunca,Bueno,Sí
+882,37,Apurímac,Rural,1549.5,459.78,No,Financiera,Nunca,Bueno,Sí
+883,55,Puno,Rural,1686.53,462.49,Sí,Banco,Mensual,Bueno,No
+884,41,Apurímac,Urbana,654.87,188.86,Sí,Caja Municipal,Mensual,Regular,Sí
+885,24,Junín,Urbana,1917.6131475266,229.22,No,Banco,Ocasional,Nulo,Sí
+886,49,Lima,Urbana,2664.54,195.08826255011,Sí,Banco,Ocasional,Bueno,Sí
+887,41,Apurímac,Rural,1582.92,7.41,No,Banco,Nunca,Bueno,Sí
+888,35,Lima,Urbana,501.88,390.69,No,Cooperativa,Nunca,Malo,Sí
+889,58,Junín,Urbana,1151.11,656.96,No,Caja Municipal,Ocasional,Malo,No
+890,18,Loreto,Urbana,3481.39,307.26,Sí,Caja Municipal,Ocasional,Bueno,Sí
+891,39,Tacna,Urbana,415.15,20.33,Sí,Financiera,Ocasional,Malo,Sí
+892,31,Junín,Urbana,1103.81,357.31,No,Caja Municipal,Nunca,Malo,Sí
+893,44,Lima,Urbana,1680.97,265.17,No,Ninguna,Nunca,Bueno,Sí
+894,59,Loreto,Urbana,2146.03,236.95,Sí,Financiera,Mensual,Bueno,Sí
+895,63,Tacna,Urbana,931.79,177.9,No,Caja Municipal,Ocasional,Bueno,Sí
+896,37,Lima,Urbana,1741.17,203.41,Sí,Banco,Ocasional,Regular,Sí
+897,30,Loreto,Urbana,1707.89,264.9,No,Ninguna,Ocasional,Malo,No
+898,59,Tacna,Urbana,774.67,201.56,No,Caja Municipal,Mensual,Malo,No
+899,57,Puno,Urbana,1947.97,36.82,No,Banco,Ocasional,Regular,Sí
+900,31,Puno,Rural,1100.58,377.8,No,Banco,Ocasional,Regular,Sí
+901,56,Apurímac,Urbana,1863.96,64.52,Sí,Banco,Nunca,Regular,No
+902,57,Puno,Urbana,1277.83,164.71,Sí,Banco,Mensual,Bueno,Sí
+903,37,Tacna,Rural,359.97,303.19,Sí,Financiera,Mensual,Regular,Sí
+904,42,Loreto,Rural,1338.86,42.27,Sí,Caja Municipal,Nunca,Nulo,Sí
+905,38,Puno,Urbana,2292.16,420.49,No,Banco,Mensual,Regular,Sí
+906,38,Lima,Rural,1400.95,200.23,Sí,Caja Municipal,Nunca,Regular,Sí
+907,37,Tacna,Rural,429.18,347.24,No,Banco,Ocasional,Bueno,Sí
+908,56,Lima,Urbana,927.95,187.73,No,Caja Municipal,Nunca,Bueno,Sí
+909,58,Puno,Rural,1792.23,157.79,Sí,Banco,Ocasional,Malo,Sí
+910,53,Puno,Rural,659.66,543.13,Sí,Caja Municipal,Mensual,Nulo,Sí
+911,19,Puno,Urbana,476.57,375.51,Sí,Financiera,Nunca,Bueno,Sí
+912,33,Junín,Urbana,2271.33,347.49968425677,Sí,Financiera,Mensual,Malo,No
+913,22,Loreto,Rural,448.96,287.22,Sí,Financiera,Ocasional,Malo,Sí
+914,29,Lima,Urbana,826.38,228.21,Sí,Ninguna,Mensual,Malo,Sí
+915,40,Junín,Urbana,2030.08,76.23,Sí,Financiera,Nunca,Malo,Sí
+916,42,Apurímac,Urbana,1501.3,218.22677254817,No,Financiera,Nunca,Regular,Sí
+917,38,Puno,Rural,1418.49,374.95,Sí,Caja Municipal,Mensual,Bueno,Sí
+918,41,Loreto,Rural,1366.19,468.29,Sí,Cooperativa,Ocasional,Bueno,Sí
+919,57,Apurímac,Rural,1884.88,120.51,No,Caja Municipal,Ocasional,Regular,Sí
+920,64,Lima,Urbana,1908.39,253.26,No,Banco,Ocasional,Bueno,Sí
+922,28,Puno,Urbana,1146.85,232.44,No,Banco,Nunca,Malo,Sí
+923,19,Tacna,Rural,1373.0,599.27,Sí,Banco,Mensual,Nulo,Sí
+924,49,Loreto,Urbana,1733.07,161.07,Sí,Caja Municipal,Mensual,Regular,Sí
+925,19,Loreto,Rural,934.12,502.59,Sí,Caja Municipal,Mensual,Regular,Sí
+926,35,Apurímac,Urbana,438.82,322.24,Sí,Ninguna,Ocasional,Malo,Sí
+927,42,Puno,Urbana,1224.8,310.6,No,Ninguna,Mensual,Nulo,Sí
+928,64,Tacna,Rural,2059.4,52.38,No,Caja Municipal,Ocasional,Nulo,No
+929,22,Junín,Urbana,1605.87,435.94,Sí,Banco,Ocasional,Malo,Sí
+930,51,Loreto,Urbana,1732.25,390.25,Sí,Caja Municipal,Ocasional,Regular,Sí
+931,61,Junín,Urbana,1885.75,298.09,No,Caja Municipal,Mensual,Malo,Sí
+932,60,Loreto,Urbana,1664.99,270.09,Sí,Banco,Nunca,Nulo,Sí
+933,30,Lima,Urbana,877.16,482.89,Sí,Ninguna,Mensual,Regular,No
+934,35,Junín,Urbana,887.35,280.34,No,Financiera,Nunca,Regular,Sí
+935,26,Tacna,Rural,1138.88,337.41,Sí,Financiera,Nunca,Malo,Sí
+936,34,Loreto,Urbana,443.17,281.33,No,Financiera,Mensual,Bueno,No
+937,25,Lima,Urbana,1603.83,368.3,Sí,Cooperativa,Mensual,Nulo,No
+938,49,Loreto,Rural,822.72,425.86,Sí,Ninguna,Nunca,Regular,No
+939,50,Loreto,Urbana,847.86,41.81,Sí,Caja Municipal,Nunca,Bueno,Sí
+940,36,Lima,Urbana,2533.64,285.49,Sí,Banco,Mensual,Malo,No
+941,62,Loreto,Urbana,1896.14,400.54,No,Cooperativa,Nunca,Regular,Sí
+943,50,Puno,Urbana,1712.05,413.49,Sí,Financiera,Mensual,Nulo,No
+944,22,Lima,Urbana,1946.32,375.06,No,Cooperativa,Nunca,Bueno,Sí
+945,55,Puno,Rural,1711.65,294.2,No,Cooperativa,Ocasional,Malo,Sí
+946,56,Tacna,Rural,1176.64,210.23,Sí,Cooperativa,Mensual,Malo,No
+947,40,Tacna,Urbana,702.59,165.14980413886,No,Caja Municipal,Ocasional,Malo,Sí
+948,32,Junín,Urbana,1503.12,341.18,Sí,Cooperativa,Ocasional,Bueno,Sí
+950,20,Apurímac,Urbana,1584.64,293.3,Sí,Ninguna,Mensual,Nulo,Sí
+951,40,Loreto,Urbana,1833.83,213.29,Sí,Financiera,Mensual,Regular,Sí
+952,23,Lima,Rural,1651.74,446.53,No,Caja Municipal,Nunca,Regular,No
+953,25,Junín,Urbana,1753.65,493.68,Sí,Caja Municipal,Mensual,Malo,No
+954,18,Junín,Urbana,2766.97,251.64,No,Caja Municipal,Mensual,Bueno,No
+955,44,Puno,Rural,2133.4,96.56,No,Cooperativa,Nunca,Regular,Sí
+956,49,Junín,Urbana,1689.24,272.39,Sí,Ninguna,Mensual,Bueno,Sí
+957,43,Apurímac,Urbana,1131.46,300.56,Sí,Caja Municipal,Mensual,Regular,Sí
+958,63,Puno,Urbana,3004.59,135.44,Sí,Financiera,Mensual,Regular,Sí
+959,50,Junín,Rural,1848.01,49.077762051336,Sí,Cooperativa,Mensual,Regular,Sí
+960,56,Lima,Urbana,1119.06,438.39,Sí,Financiera,Nunca,Bueno,Sí
+961,29,Apurímac,Urbana,1029.73,303.67,Sí,Caja Municipal,Ocasional,Bueno,No
+962,40,Puno,Urbana,779.64,224.36,Sí,Banco,Mensual,Bueno,Sí
+963,47,Lima,Rural,1948.06,318.98,No,Caja Municipal,Mensual,Regular,Sí
+964,19,Lima,Rural,794.9,147.94,Sí,Caja Municipal,Mensual,Bueno,No
+965,31,Junín,Urbana,1300.79,120.86,Sí,Caja Municipal,Ocasional,Regular,Sí
+966,26,Puno,Rural,2481.1794444783,224.17,No,Caja Municipal,Nunca,Malo,Sí
+967,58,Lima,Rural,1413.12,273.2715869111,No,Cooperativa,Mensual,Bueno,No
+968,32,Puno,Urbana,882.02,116.61,Sí,Financiera,Ocasional,Malo,No
+969,60,Apurímac,Urbana,1589.72,25.75,Sí,Caja Municipal,Ocasional,Bueno,Sí
+970,41,Junín,Urbana,1561.45,43.693748709672,No,Cooperativa,Ocasional,Bueno,No
+971,26,Lima,Urbana,2264.91,220.04,Sí,Caja Municipal,Ocasional,Nulo,Sí
+972,24,Lima,Urbana,1138.06,177.7,No,Caja Municipal,Mensual,Malo,Sí
+974,52,Loreto,Urbana,1260.48,401.67,No,Financiera,Nunca,Regular,Sí
+975,39,Tacna,Rural,962.83,97.72,No,Banco,Mensual,Regular,No
+976,37,Apurímac,Urbana,1324.94,643.93,Sí,Cooperativa,Mensual,Bueno,No
+977,29,Lima,Rural,2105.43,318.99,Sí,Caja Municipal,Mensual,Regular,No
+978,52,Apurímac,Urbana,1579.64,60.43,Sí,Banco,Mensual,Regular,No
+979,64,Lima,Urbana,1560.94,92.42,No,Caja Municipal,Mensual,Regular,Sí
+980,47,Loreto,Rural,1791.95,199.23,Sí,Cooperativa,Ocasional,Bueno,Sí
+981,42,Tacna,Rural,1653.57,15.64,Sí,Ninguna,Ocasional,Nulo,Sí
+982,20,Tacna,Urbana,1002.88,299.36,Sí,Caja Municipal,Mensual,Malo,No
+983,64,Puno,Urbana,3133.53,218.44,No,Cooperativa,Mensual,Bueno,No
+984,43,Junín,Urbana,1529.49,4.13,Sí,Cooperativa,Mensual,Bueno,No
+985,45,Lima,Urbana,1412.61,185.27,No,Banco,Nunca,Nulo,No
+986,60,Lima,Urbana,2349.15,173.79,Sí,Caja Municipal,Mensual,Bueno,Sí
+987,29,Puno,Urbana,1951.49,248.37,Sí,Banco,Mensual,Regular,No
+988,53,Puno,Urbana,1619.7,462.8,Sí,Ninguna,Mensual,Regular,Sí
+989,61,Loreto,Rural,1041.01,425.81,No,Banco,Nunca,Malo,Sí
+990,20,Lima,Rural,638.15,365.76,Sí,Banco,Mensual,Malo,No
+991,38,Puno,Urbana,864.72,238.63,No,Financiera,Nunca,Bueno,No
+992,22,Puno,Urbana,518.59,456.29,No,Cooperativa,Mensual,Regular,Sí
+993,53,Junín,Urbana,1048.73,195.37,Sí,Caja Municipal,Mensual,Regular,No
+994,25,Tacna,Urbana,1956.59,227.79,Sí,Financiera,Ocasional,Regular,No
+995,30,Lima,Urbana,1480.78,291.46,Sí,Banco,Mensual,Malo,Sí
+996,18,Loreto,Rural,656.82,470.56,Sí,Banco,Ocasional,Regular,Sí
+997,40,Tacna,Urbana,1779.32,390.53,No,Caja Municipal,Mensual,Regular,Sí
+998,51,Junín,Rural,1240.89,296.82,Sí,Caja Municipal,Ocasional,Bueno,Sí
+999,18,Loreto,Urbana,396.32,49.492010375151,No,Banco,Mensual,Bueno,Sí
+1000,25,Tacna,Urbana,1708.09,341.02,No,Cooperativa,Ocasional,Bueno,Sí
+1001,43,Lima,Urbana,1152.66,105.41,Sí,Banco,Mensual,Regular,Sí
+1002,36,Apurímac,Urbana,1837.96,372.0,No,Caja Municipal,Ocasional,Regular,Sí
+1004,24,Apurímac,Urbana,1188.02,381.26,Sí,Ninguna,Nunca,Bueno,Sí
+1005,34,Tacna,Urbana,1011.65,396.26,Sí,Banco,Mensual,Regular,No
+1006,53,Loreto,Urbana,1604.14,140.6098318009,No,Banco,Mensual,Malo,Sí
+1007,42,Puno,Urbana,2072.24,526.78,No,Ninguna,Ocasional,Regular,Sí
+1008,51,Junín,Urbana,2006.04,356.44,Sí,Caja Municipal,Mensual,Regular,Sí
+1010,39,Junín,Urbana,1316.24,145.28584357754,Sí,Financiera,Mensual,Bueno,Sí
+1011,47,Junín,Urbana,853.86,409.74124553101,No,Ninguna,Mensual,Regular,Sí
+1012,36,Junín,Rural,460.24127528223,346.67,Sí,Banco,Mensual,Malo,No
+1013,37,Tacna,Urbana,2089.43,499.13,Sí,Caja Municipal,Mensual,Nulo,Sí
+1014,48,Loreto,Rural,610.11,143.49,No,Financiera,Mensual,Regular,Sí
+1015,36,Loreto,Rural,1979.19,196.8,Sí,Cooperativa,Ocasional,Bueno,Sí
+1016,33,Puno,Urbana,1962.7,422.14,No,Banco,Ocasional,Bueno,Sí
+1017,53,Junín,Urbana,2518.79,173.38,No,Cooperativa,Mensual,Malo,No
+1018,54,Puno,Urbana,1098.97,324.63,Sí,Financiera,Nunca,Bueno,Sí
+1019,40,Apurímac,Urbana,560.76,337.17,Sí,Banco,Ocasional,Malo,Sí
+1020,39,Loreto,Urbana,994.49,494.04,Sí,Ninguna,Mensual,Regular,Sí
+1021,53,Junín,Rural,1762.32,349.0424154968,No,Caja Municipal,Mensual,Bueno,No
+1022,23,Apurímac,Urbana,2037.7,291.04,Sí,Caja Municipal,Nunca,Bueno,No
+1023,44,Junín,Urbana,2173.06,147.39,No,Caja Municipal,Nunca,Bueno,Sí
+1024,49,Junín,Urbana,1430.13,453.11,No,Cooperativa,Mensual,Regular,No
+1025,24,Tacna,Urbana,1413.06,9.54,Sí,Banco,Ocasional,Nulo,Sí
+1026,47,Loreto,Urbana,672.03,279.35,Sí,Caja Municipal,Nunca,Regular,No
+1027,24,Tacna,Urbana,1306.9,276.49,No,Financiera,Mensual,Malo,Sí
+1028,38,Puno,Urbana,1634.37,281.34,Sí,Financiera,Mensual,Bueno,Sí
+1029,46,Loreto,Urbana,1741.98,287.44,No,Banco,Ocasional,Bueno,No
+1030,59,Loreto,Rural,1695.68,10.48,Sí,Cooperativa,Mensual,Malo,No
+1031,37,Junín,Rural,1977.43,358.26,No,Cooperativa,Mensual,Regular,Sí
+1032,19,Junín,Urbana,1845.23,317.57,Sí,Banco,Mensual,Bueno,No
+1033,27,Puno,Urbana,2545.25,278.15,No,Cooperativa,Ocasional,Nulo,No
+1034,52,Puno,Urbana,1108.62,269.67,No,Cooperativa,Nunca,Bueno,No
+1035,53,Tacna,Rural,1767.33,57.33,No,Financiera,Nunca,Bueno,Sí
+1036,31,Junín,Urbana,1096.28,297.03,No,Caja Municipal,Mensual,Bueno,Sí
+1037,49,Loreto,Urbana,1271.82,53.68,Sí,Cooperativa,Mensual,Bueno,No
+1038,39,Tacna,Rural,1018.46,485.34,No,Financiera,Nunca,Regular,Sí
+1039,41,Loreto,Rural,897.02,157.44,Sí,Financiera,Mensual,Bueno,No
+1040,56,Junín,Urbana,728.47,551.06,No,Cooperativa,Mensual,Regular,Sí
+1041,52,Lima,Urbana,1489.53,437.89,No,Ninguna,Mensual,Regular,No
+1042,27,Tacna,Urbana,2234.33,433.68,Sí,Cooperativa,Ocasional,Malo,No
+1043,64,Apurímac,Urbana,908.01,89.23,Sí,Caja Municipal,Mensual,Bueno,Sí
+1044,32,Puno,Urbana,1162.52,347.81,Sí,Caja Municipal,Nunca,Bueno,Sí
+1045,18,Loreto,Rural,1358.38,462.27,No,Banco,Ocasional,Regular,Sí
+1046,51,Loreto,Rural,1980.0043720171,418.12664755754,Sí,Ninguna,Mensual,Nulo,Sí
+1047,59,Junín,Urbana,2295.75,257.65,No,Financiera,Ocasional,Bueno,Sí
+1048,40,Loreto,Urbana,889.4356637117,490.44,Sí,Financiera,Mensual,Nulo,Sí
+1049,43,Puno,Urbana,1382.51,117.43,Sí,Cooperativa,Ocasional,Bueno,Sí
+1050,22,Loreto,Urbana,922.64,173.02,No,Banco,Ocasional,Malo,Sí
+1051,50,Loreto,Rural,2220.06,192.83,No,Banco,Ocasional,Regular,Sí
+1052,29,Tacna,Rural,1585.54,458.52,Sí,Cooperativa,Mensual,Regular,Sí
+1053,49,Lima,Urbana,1044.82,307.41,Sí,Banco,Nunca,Bueno,No
+1054,23,Junín,Urbana,1295.67,476.53,Sí,Financiera,Mensual,Bueno,No
+1055,28,Apurímac,Urbana,1836.23,434.03,No,Financiera,Ocasional,Regular,Sí
+1056,60,Puno,Rural,1123.93,215.76,Sí,Cooperativa,Nunca,Bueno,No
+1057,54,Apurímac,Urbana,476.56,414.03,No,Caja Municipal,Nunca,Regular,No
+1058,30,Junín,Urbana,1329.13,364.22,No,Financiera,Mensual,Bueno,Sí
+1059,32,Loreto,Urbana,2091.03,100.1,Sí,Ninguna,Nunca,Bueno,Sí
+1060,51,Loreto,Rural,2410.84,289.3,No,Banco,Mensual,Nulo,Sí
+1061,53,Apurímac,Rural,1952.74,359.5,No,Ninguna,Mensual,Regular,Sí
+1062,19,Tacna,Urbana,1028.62,135.72,No,Banco,Mensual,Regular,Sí
+1063,30,Loreto,Rural,1069.37,408.61,No,Cooperativa,Mensual,Bueno,Sí
+1064,41,Apurímac,Rural,1522.34,656.27,No,Ninguna,Mensual,Bueno,No
+1065,42,Lima,Urbana,573.09,77.69,Sí,Cooperativa,Mensual,Bueno,Sí
+1066,50,Junín,Rural,1545.73,82.53,Sí,Cooperativa,Mensual,Regular,Sí
+1067,37,Puno,Urbana,1134.68,154.71,Sí,Banco,Mensual,Malo,No
+1068,18,Apurímac,Rural,908.74,241.55,No,Cooperativa,Nunca,Regular,No
+1069,52,Lima,Rural,1069.21,145.37,Sí,Caja Municipal,Mensual,Bueno,No
+1070,53,Junín,Urbana,2281.29,320.79,Sí,Caja Municipal,Mensual,Bueno,Sí
+1071,51,Puno,Rural,840.6,219.65207048179,No,Financiera,Ocasional,Nulo,Sí
+1072,26,Junín,Rural,297.36,8.91,No,Caja Municipal,Mensual,Bueno,Sí
+1073,63,Loreto,Rural,1315.7,246.93,Sí,Cooperativa,Mensual,Bueno,No
+1074,47,Tacna,Rural,1487.6,142.86,Sí,Ninguna,Ocasional,Regular,No
+1075,29,Junín,Rural,1945.67,463.91,No,Banco,Mensual,Bueno,No
+1076,18,Loreto,Rural,2766.34,542.34,Sí,Caja Municipal,Ocasional,Regular,Sí
+1078,52,Lima,Urbana,676.64,158.73,Sí,Caja Municipal,Ocasional,Malo,No
+1079,29,Junín,Urbana,1094.32,60.19,No,Financiera,Mensual,Regular,No
+1080,34,Puno,Urbana,1560.92,275.27,No,Cooperativa,Mensual,Malo,No
+1081,53,Apurímac,Urbana,1631.34,140.94,Sí,Financiera,Mensual,Bueno,Sí
+1082,48,Tacna,Rural,2462.29,518.43,Sí,Ninguna,Nunca,Nulo,Sí
+1083,36,Tacna,Urbana,2497.04,311.21,No,Banco,Ocasional,Nulo,No
+1084,27,Junín,Rural,1714.87,192.47,Sí,Cooperativa,Ocasional,Bueno,Sí
+1085,53,Apurímac,Urbana,972.79,270.87,Sí,Cooperativa,Nunca,Nulo,Sí
+1086,59,Puno,Urbana,1008.02,89.4,No,Banco,Nunca,Nulo,Sí
+1087,33,Junín,Rural,1195.21,250.06,Sí,Financiera,Mensual,Bueno,No
+1088,18,Apurímac,Rural,1540.87,351.65,Sí,Financiera,Nunca,Regular,No
+1089,22,Loreto,Urbana,2077.28,311.27,No,Caja Municipal,Mensual,Bueno,No
+1090,58,Junín,Urbana,1053.91,46.38,Sí,Ninguna,Nunca,Nulo,Sí
+1091,64,Lima,Urbana,1063.09,226.84431913565,Sí,Ninguna,Nunca,Malo,No
+1092,39,Apurímac,Urbana,2170.17,248.15,Sí,Caja Municipal,Mensual,Regular,No
+1093,27,Junín,Urbana,2135.34,74.05,Sí,Financiera,Mensual,Bueno,Sí
+1094,39,Tacna,Urbana,2243.34,541.76,Sí,Financiera,Nunca,Bueno,No
+1095,59,Puno,Urbana,571.85,490.34,Sí,Ninguna,Mensual,Bueno,Sí
+1096,18,Apurímac,Urbana,1705.98,256.57,Sí,Financiera,Ocasional,Regular,No
+1097,50,Apurímac,Urbana,2076.45,369.06,Sí,Banco,Mensual,Bueno,Sí
+1098,47,Tacna,Urbana,845.02,37.31,Sí,Caja Municipal,Ocasional,Regular,No
+1099,20,Lima,Rural,1407.01,375.77,No,Ninguna,Mensual,Regular,Sí
+1100,48,Apurímac,Rural,1271.22,147.23,No,Caja Municipal,Mensual,Regular,Sí
+1101,33,Lima,Rural,1529.35,19.025587512475,Sí,Banco,Mensual,Regular,Sí
+1102,41,Apurímac,Rural,786.28,229.05,No,Caja Municipal,Mensual,Malo,Sí
+1103,37,Lima,Urbana,2821.88,32.04,Sí,Banco,Mensual,Bueno,No
+1104,43,Tacna,Rural,1362.34,250.57,No,Caja Municipal,Mensual,Malo,Sí
+1105,56,Loreto,Urbana,1646.52,454.69469547959,Sí,Caja Municipal,Mensual,Bueno,Sí
+1106,27,Loreto,Urbana,1646.85,320.83,Sí,Financiera,Nunca,Regular,Sí
+1107,60,Tacna,Urbana,2485.46,497.59,Sí,Caja Municipal,Mensual,Malo,Sí
+1108,35,Tacna,Urbana,1085.65,276.74,Sí,Banco,Ocasional,Bueno,Sí
+1109,34,Junín,Urbana,1834.5,145.33,No,Caja Municipal,Mensual,Bueno,Sí
+1110,33,Loreto,Urbana,1411.71,404.02,Sí,Caja Municipal,Ocasional,Regular,Sí
+1111,19,Loreto,Rural,1111.18,224.42993187124,Sí,Ninguna,Mensual,Regular,Sí
+1112,32,Lima,Urbana,2290.73,193.56,Sí,Financiera,Mensual,Malo,Sí
+1113,38,Junín,Rural,1373.14,161.2,No,Cooperativa,Ocasional,Regular,Sí
+1114,46,Loreto,Rural,1989.05,201.41,Sí,Cooperativa,Mensual,Malo,Sí
+1115,62,Lima,Urbana,2020.02,354.36,Sí,Financiera,Mensual,Regular,Sí
+1116,43,Lima,Urbana,1643.93,188.69,No,Financiera,Mensual,Regular,Sí
+1117,40,Puno,Urbana,2354.68,201.05,Sí,Banco,Ocasional,Malo,Sí
+1118,64,Loreto,Rural,1647.83,338.75,Sí,Caja Municipal,Mensual,Regular,Sí
+1119,58,Tacna,Urbana,2468.27,342.68,No,Banco,Ocasional,Bueno,Sí
+1120,57,Loreto,Urbana,846.93,17.64,Sí,Ninguna,Mensual,Bueno,Sí
+1121,37,Lima,Urbana,1197.32,361.07750275466,No,Caja Municipal,Mensual,Bueno,Sí
+1122,28,Tacna,Urbana,1529.85,398.69,No,Cooperativa,Mensual,Bueno,Sí
+1123,20,Lima,Urbana,800.48,251.23,No,Financiera,Nunca,Bueno,Sí
+1124,61,Tacna,Urbana,2318.66,491.36,Sí,Financiera,Mensual,Bueno,No
+1125,27,Loreto,Urbana,1388.84,93.38,Sí,Financiera,Mensual,Bueno,No
+1126,23,Apurímac,Urbana,774.39,172.34,No,Financiera,Nunca,Bueno,No
+1127,63,Junín,Urbana,1203.6,544.49,No,Banco,Ocasional,Nulo,Sí
+1128,50,Tacna,Urbana,1154.88,471.1,Sí,Financiera,Mensual,Malo,Sí
+1129,56,Puno,Urbana,859.54,304.41,Sí,Financiera,Mensual,Bueno,Sí
+1130,19,Apurímac,Rural,2015.57,371.28,No,Financiera,Mensual,Malo,Sí
+1131,44,Lima,Urbana,1501.83,540.67,Sí,Banco,Mensual,Regular,Sí
+1132,30,Loreto,Rural,1331.86,356.16,Sí,Caja Municipal,Ocasional,Bueno,Sí
+1133,41,Lima,Urbana,1930.65,493.82,No,Caja Municipal,Nunca,Malo,Sí
+1134,34,Apurímac,Rural,994.89,212.53,No,Banco,Ocasional,Malo,No
+1135,45,Loreto,Urbana,1798.85,476.81,Sí,Banco,Mensual,Regular,No
+1136,35,Tacna,Urbana,2060.16,55.36,Sí,Banco,Nunca,Nulo,No
+1137,62,Puno,Urbana,925.33,353.63,Sí,Cooperativa,Ocasional,Bueno,Sí
+1138,52,Loreto,Urbana,923.44,608.59,Sí,Financiera,Mensual,Bueno,No
+1139,23,Lima,Urbana,1450.25,200.20096240223,Sí,Caja Municipal,Mensual,Bueno,No
+1140,61,Apurímac,Urbana,1199.84,231.03,Sí,Ninguna,Nunca,Bueno,Sí
+1141,51,Lima,Urbana,1806.09,160.22,Sí,Banco,Nunca,Bueno,No
+1142,39,Lima,Urbana,1542.79,309.49,Sí,Cooperativa,Mensual,Bueno,Sí
+1143,60,Loreto,Urbana,953.14,221.62,Sí,Cooperativa,Ocasional,Bueno,No
+1144,34,Tacna,Urbana,903.23,309.72,Sí,Ninguna,Mensual,Malo,No
+1145,27,Puno,Urbana,1811.56,235.08,Sí,Financiera,Ocasional,Regular,Sí
+1146,36,Puno,Rural,672.24,298.69,No,Cooperativa,Nunca,Regular,Sí
+1147,64,Tacna,Rural,2476.92,139.12,Sí,Caja Municipal,Mensual,Bueno,Sí
+1148,43,Junín,Urbana,2652.64,340.48,Sí,Caja Municipal,Mensual,Malo,Sí
+1149,28,Tacna,Urbana,1211.22,60.88,Sí,Banco,Mensual,Bueno,Sí
+1150,46,Puno,Rural,1496.81,86.78,Sí,Ninguna,Mensual,Bueno,Sí
+1151,60,Lima,Urbana,668.88,180.69,Sí,Financiera,Ocasional,Malo,Sí
+1152,43,Lima,Urbana,1757.5,134.26549651368,Sí,Caja Municipal,Ocasional,Regular,Sí
+1153,59,Puno,Urbana,1648.38,336.87,Sí,Financiera,Mensual,Bueno,Sí
+1154,27,Apurímac,Urbana,1227.86,182.03249387712,No,Banco,Mensual,Regular,Sí
+1155,36,Apurímac,Urbana,1602.07,212.88328382176,Sí,Financiera,Nunca,Bueno,No
+1156,27,Loreto,Rural,2437.49,262.31,Sí,Cooperativa,Mensual,Bueno,Sí
+1157,36,Apurímac,Urbana,1108.54,215.78,No,Cooperativa,Ocasional,Malo,No
+1158,61,Junín,Urbana,1602.22,504.47,Sí,Financiera,Mensual,Nulo,Sí
+1159,40,Loreto,Rural,1171.34,390.33,Sí,Caja Municipal,Nunca,Regular,No
+1160,46,Apurímac,Urbana,1160.47,280.89,No,Caja Municipal,Mensual,Bueno,Sí
+1161,48,Junín,Urbana,1419.96,178.95,Sí,Caja Municipal,Ocasional,Bueno,Sí
+1162,49,Lima,Rural,2479.75,260.03,Sí,Banco,Ocasional,Regular,No
+1163,27,Lima,Urbana,1020.5,399.40535305286,No,Banco,Mensual,Bueno,Sí
+1164,30,Loreto,Urbana,1289.92,429.82,Sí,Ninguna,Mensual,Regular,Sí
+1165,55,Apurímac,Urbana,1070.32,180.17,Sí,Banco,Mensual,Regular,No
+1166,44,Tacna,Rural,1345.19,230.62,Sí,Caja Municipal,Mensual,Regular,Sí
+1167,28,Apurímac,Urbana,1260.45,299.58,No,Caja Municipal,Mensual,Bueno,No
+1168,40,Puno,Urbana,1301.22,187.06,Sí,Financiera,Ocasional,Regular,Sí
+1169,22,Apurímac,Rural,1959.9,94.47,Sí,Caja Municipal,Mensual,Regular,Sí
+1170,22,Puno,Urbana,1847.74,220.1,Sí,Banco,Ocasional,Malo,Sí
+1171,53,Tacna,Urbana,711.25,519.31,Sí,Financiera,Mensual,Nulo,Sí
+1172,27,Lima,Urbana,1250.06,554.74,No,Financiera,Mensual,Nulo,Sí
+1173,21,Puno,Rural,202.86,138.39,Sí,Cooperativa,Mensual,Regular,Sí
+1174,18,Junín,Urbana,1196.73,435.69,No,Banco,Nunca,Regular,No
+1175,31,Loreto,Urbana,931.43,676.32,Sí,Ninguna,Ocasional,Bueno,No
+1176,40,Loreto,Rural,1079.2,543.76,Sí,Banco,Ocasional,Bueno,Sí
+1177,37,Junín,Rural,1935.38,71.63,No,Banco,Mensual,Bueno,Sí
+1178,46,Tacna,Urbana,1404.65,8.2028614999865,Sí,Caja Municipal,Ocasional,Malo,Sí
+1179,29,Loreto,Urbana,1421.74,388.9,No,Caja Municipal,Mensual,Regular,Sí
+1180,25,Junín,Urbana,1913.89,127.15,No,Banco,Ocasional,Malo,Sí
+1181,45,Loreto,Urbana,1473.1,349.19,Sí,Caja Municipal,Ocasional,Bueno,Sí
+1182,26,Puno,Urbana,1227.58,103.02,Sí,Banco,Mensual,Malo,No
+1183,52,Tacna,Urbana,1810.48,421.41,Sí,Financiera,Mensual,Malo,Sí
+1184,34,Junín,Rural,199.82,126.95,Sí,Banco,Mensual,Bueno,Sí
+1185,62,Puno,Urbana,1926.01,176.51,Sí,Financiera,Ocasional,Malo,Sí
+1186,28,Loreto,Urbana,1026.37,73.99,No,Caja Municipal,Mensual,Bueno,Sí
+1187,25,Loreto,Urbana,1404.02,403.6,Sí,Financiera,Ocasional,Bueno,Sí
+1188,24,Loreto,Rural,2048.5,421.11,Sí,Ninguna,Nunca,Regular,Sí
+1189,32,Loreto,Rural,1913.02,408.62,Sí,Banco,Mensual,Regular,Sí
+1190,19,Loreto,Urbana,2477.04,22.36,Sí,Caja Municipal,Mensual,Bueno,Sí
+1191,56,Loreto,Urbana,1238.16,543.79,No,Caja Municipal,Ocasional,Bueno,Sí
+1192,59,Apurímac,Urbana,1407.75,47.54,No,Financiera,Mensual,Bueno,No
+1193,51,Tacna,Urbana,2152.19,242.23037342794,Sí,Ninguna,Mensual,Malo,Sí
+1194,58,Tacna,Urbana,1155.22,267.81,No,Caja Municipal,Ocasional,Bueno,Sí
+1195,37,Junín,Urbana,1443.58,340.27,Sí,Caja Municipal,Mensual,Bueno,No
+1196,34,Junín,Urbana,1685.47,480.95,Sí,Banco,Mensual,Regular,Sí
+1197,26,Junín,Urbana,1211.84,722.9,No,Banco,Ocasional,Regular,Sí
+1198,29,Lima,Urbana,1428.09,391.66,No,Banco,Nunca,Regular,No
+1199,38,Lima,Urbana,1307.34,482.73,No,Financiera,Mensual,Regular,No
+1200,50,Puno,Rural,2215.13,231.78,No,Cooperativa,Mensual,Bueno,Sí
