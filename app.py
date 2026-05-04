@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 st.set_page_config(page_title="Equipo 8 - Crédito y Ahorro", layout="wide")
 
-st.title("Team 8: Financial Inclusion and Savings Behavior Analysis")
+st.title("GRUPO 8: Análisis del comportamiento de inclusión financiera y ahorro")
 st.write("La idea es analizar ahorro, crédito e inclusión financiera.")
 
 # 1. Carga de datos
