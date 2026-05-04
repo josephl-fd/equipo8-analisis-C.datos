@@ -38,11 +38,11 @@ st.dataframe(df.describe())
 df = df[df["ahorro_mensual"] < df["ingreso_mensual"]]
 st.write(f"Dimensiones del dataset después de eliminar inconsistencias: {df.shape[0]} filas x {df.shape[1]} columnas")
 
-st.header("5. Porcentaje de ahorro")
+st.header("4. Porcentaje de ahorro")
 df["Porcentaje_Ahorro"] = (df["ahorro_mensual"] / df["ingreso_mensual"]) * 100
 st.dataframe(df.head())
 
-st.header("4. Consistencia de datos")
+st.header("5. Consistencia de datos")
 st.write("Se evalúa que no existan casos donde el ahorro mensual sea mayor o igual al ingreso mensual.")
 inconsistencias = (df["ahorro_mensual"] >= df["ingreso_mensual"]).sum()
 st.metric("Casos con ahorro mayor o igual al ingreso", int(inconsistencias))
