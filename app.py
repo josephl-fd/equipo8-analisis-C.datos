@@ -55,7 +55,7 @@ st.header("6. Acceso al crédito según departamento")
 st.dataframe(df.groupby("departamento")["acceso_credito"].value_counts())
 
 st.header("7. Gráfico 1: Ahorro mensual por tipo de institución")
-fig, ax = plt.subplots()
+fig, ax = plt.subplots(figsize=(6,4))
 df.groupby("tipo_institucion")["ahorro_mensual"].sum().plot(kind="bar", ax=ax)
 ax.set_title("Ahorro mensual por tipo de institución")
 ax.set_xlabel("Tipo de institución")
@@ -108,7 +108,7 @@ st.dataframe(df.groupby("zona")["acceso_credito"].value_counts(normalize=True))
 tabla_credito_segun_zona = pd.crosstab(df["zona"], df["acceso_credito"])
 st.dataframe(tabla_credito_segun_zona)
 
-fig, ax = plt.subplots()
+fig, ax = plt.subplots(figsize=(6,4))
 tabla_credito_segun_zona.plot(kind="bar", ax=ax)
 ax.set_title("Acceso al crédito según zona")
 ax.set_xlabel("Zona")
@@ -119,7 +119,7 @@ st.pyplot(fig)
 st.header("11. Gráfico 5: Scatter ingreso vs ahorro por zona")
 
 colores = df["zona"].map({"Urbana": "blue", "Rural": "red"})
-fig, ax = plt.subplots()
+fig, ax = plt.subplots(figsize=(6,4))
 ax.scatter(df["ingreso_mensual"], df["ahorro_mensual"], c=colores)
 ax.set_xlabel("Ingreso")
 ax.set_ylabel("Ahorro")
@@ -132,12 +132,12 @@ st.write(
 
 st.header("12. Gráfico 6: Histograma de ingresos mensuales y ahorros mensuales")
 
-fig, ax = plt.subplots()
+fig, ax = plt.subplots(figsize=(6,4))
 df["ingreso_mensual"].plot(kind="hist", color="blue", ax=ax)
 ax.set_title("Distribución de ingresos")
 st.pyplot(fig)
 
-fig, ax = plt.subplots()
+fig, ax = plt.subplots(figsize=(6,4))
 df["ahorro_mensual"].plot(kind="hist", color="red", ax=ax)
 ax.set_title("Distribución de ahorros")
 st.pyplot(fig)
@@ -223,7 +223,7 @@ st.dataframe(df["Nivel_Inclusion"].value_counts())
 
 st.header("14. Gráfico 7: Distribución por nivel de inclusión financiera")
 
-fig, ax = plt.subplots()
+fig, ax = plt.subplots(figsize=(6,4))
 df["Nivel_Inclusion"].value_counts().plot(kind="bar", ax=ax)
 ax.set_title("Clasificación de inclusión financiera")
 ax.set_xlabel("Nivel de inclusión")
@@ -245,7 +245,7 @@ st.dataframe(ranking_exclusion.head(10))
 
 st.header("16. Gráfico 8: Concentración de la exclusión financiera en departamentos seleccionados")
 
-fig, ax = plt.subplots()
+fig, ax = plt.subplots(figsize=(6,4))
 ranking_exclusion.plot(kind="bar", ax=ax)
 ax.set_title("Departamentos con mayor exclusión financiera")
 ax.set_xlabel("Departamento")
@@ -260,7 +260,7 @@ st.dataframe(df.groupby("Nivel_Inclusion")["ingreso_mensual"].mean())
 
 st.header("18. Gráfico 9: Ingreso mensual promedio según nivel de inclusión financiera")
 
-fig, ax = plt.subplots()
+fig, ax = plt.subplots(figsize=(6,4))
 df.groupby("Nivel_Inclusion")["ingreso_mensual"].mean().plot(kind="bar", ax=ax)
 ax.set_title("Ingreso mensual promedio por nivel de inclusión financiera")
 ax.set_xlabel("Nivel de inclusión financiera")
@@ -277,7 +277,7 @@ st.dataframe(df.groupby("zona")["Nivel_Inclusion"].value_counts(normalize=True))
 
 st.header("19. Gráfico 10: Nivel de inclusión según zona")
 
-fig, ax = plt.subplots()
+fig, ax = plt.subplots(figsize=(6,4))
 df.groupby("zona")["Nivel_Inclusion"].value_counts(normalize=True).unstack().plot(kind="bar", ax=ax)
 ax.set_title("Proporción de inclusión financiera por zona")
 ax.set_ylabel("Proporción")
