@@ -126,7 +126,7 @@ st.write(
     "Se observa la relación entre ingreso y ahorro, diferenciando las zonas urbana y rural."
 )
 
-st.header("12. Gráfico 6: Histograma de ingresos mensuales y ahorros mensuales")
+st.header("12. Gráfico 6: Histograma de ingresos y ahorros totales")
 
 fig, ax = plt.subplots(figsize=(4,3))
 df["ingreso_mensual"].plot(kind="hist", color="blue", ax=ax)
