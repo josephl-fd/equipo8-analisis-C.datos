@@ -55,7 +55,7 @@ st.header("6. Acceso al crédito según departamento")
 st.dataframe(df.groupby("departamento")["acceso_credito"].value_counts())
 
 st.header("7. Gráfico 1: Ahorro mensual por tipo de institución")
-fig, ax = plt.subplots(figsize=(4,1))
+fig, ax = plt.subplots(figsize=(4,3))
 df.groupby("tipo_institucion")["ahorro_mensual"].sum().plot(kind="bar", ax=ax)
 ax.set_title("Ahorro mensual por tipo de institución")
 ax.set_xlabel("Tipo de institución")
