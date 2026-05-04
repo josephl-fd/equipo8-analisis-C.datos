@@ -154,8 +154,6 @@ def puntos_historial(valor):
         return 2
     elif valor == "Regular":
         return 1
-    elif valor == "Malo":
-        return 0.5
     else:
         return 0
 
@@ -211,12 +209,6 @@ df["Nivel_Inclusion"] = df["Puntaje_Inclusion"].apply(clasificar_inclusion)
 st.subheader("Vista de puntajes")
 st.dataframe(df.head())
 
-st.subheader("Resumen del puntaje de inclusión")
-st.dataframe(df["Puntaje_Inclusion"].describe())
-
-st.subheader("Conteo por nivel de inclusión")
-st.dataframe(df["Nivel_Inclusion"].value_counts())
-
 st.header("14. Gráfico 7: Distribución por nivel de inclusión financiera")
 
 fig, ax = plt.subplots(figsize=(3,2))
@@ -226,6 +218,9 @@ ax.set_xlabel("Nivel de inclusión")
 ax.set_ylabel("Cantidad de personas")
 plt.xticks(rotation=45)
 st.pyplot(fig)
+
+st.subheader("Conteo por nivel de inclusión")
+st.dataframe(df["Nivel_Inclusion"].value_counts())
 
 st.write(
     "La clasificación resume el nivel de inclusión financiera de cada persona "
