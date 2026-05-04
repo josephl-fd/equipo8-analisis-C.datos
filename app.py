@@ -35,9 +35,6 @@ st.dataframe(valores_faltantes)
 st.header("3. Análisis estadístico descriptivo")
 st.dataframe(df.describe())
 
-st.subheader("Medidas estadísticas por zona")
-st.dataframe(df.groupby("zona")[["ingreso_mensual", "ahorro_mensual"]].mean())
-
 st.header("4. Consistencia de datos")
 st.write("Se evalúa que no existan casos donde el ahorro mensual sea mayor o igual al ingreso mensual.")
 inconsistencias = (df["ahorro_mensual"] >= df["ingreso_mensual"]).sum()
