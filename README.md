@@ -1,24 +1,17 @@
 
-# Equipo 8 - Acceso al crédito y ahorro financiero
+# Equipo 8 - Web Streamlit basada en el Colab
 
-Aplicación web hecha con Streamlit para visualizar el análisis de ahorro, crédito e inclusión financiera.
+Esta versión usa los mismos gráficos y lógica del notebook de Colab del Equipo 8.
 
 ## Archivos
 
-- `app.py`: código de la página web.
-- `Ahorro_Credito_Limpio.csv`: base de datos limpia.
-- `requirements.txt`: librerías necesarias.
+- app.py
+- Ahorro_Credito_Limpio.csv
+- requirements.txt
 
-## Cómo correr localmente
+## Ejecutar
 
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
 ```
-
-## Cómo publicarlo
-
-1. Subir estos archivos a GitHub.
-2. Entrar a Streamlit Community Cloud.
-3. Crear una nueva app seleccionando el archivo `app.py`.
-4. Compartir el enlace generado.
